@@ -1,0 +1,29 @@
+＊アート
+芸術 or アート
+
+＊開発
+探索 or 開発 or デザイン or AI or アルゴリズム or プログラミング or 人工 or ヒューマン or モンテカルロ or 自動 or 木
+
+＊社会
+子ども or 社会 or 子供 or コミュニティ
+
+＊社会応用
+学習 or 教育 or ゲーミフィケーション or シリアス or 教材 or 活用 or 授業 or 利用 or 支援
+
+＊心理
+心理 or 依存 or 認知 or 発達 or 障害
+
+＊ビジネス
+産業 or ビジネス or 戦略 or 販売 or 市場 or 経営 or 企業 or 経済 or 業界 or 消費 or コンテンツ
+
+＊法学
+著作 or 判例 or 判決
+
+＊ボードゲーム
+将棋 or ボード or 囲碁
+
+＊地域
+地域 or 中国 or 日本 or 韓国 or 東京 or 米国 or 大阪 or アメリカ or 台湾 or 日 or 米 or ドイツ or 韓
+
+＊アーカイブ
+アーカイブ or 保存 or 目録
