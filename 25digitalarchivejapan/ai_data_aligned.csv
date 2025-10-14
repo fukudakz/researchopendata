@@ -1,0 +1,1506 @@
+instance_id,property,value,source,resource_id,mapped_property,normalized_value
+https://id.analoggamemuseum.org/api/items/1081,product_name,耳と手,AI,B150,name,耳と手
+https://id.analoggamemuseum.org/api/items/1081,product_name,耳と手感覚,AI,B150,name,耳と手感覚
+https://id.analoggamemuseum.org/api/items/1081,product_name,耳と手覚,AI,B150,name,耳と手覚
+https://id.analoggamemuseum.org/api/items/1081,components,マッチ棒(箱・得点用)・・・ 約240本,AI,B150,component,マッチ棒(箱・得点用)・・・約240本
+https://id.analoggamemuseum.org/api/items/1081,components,マッチ箱・・・36個(9種×4個),AI,B150,component,マッチ箱・・・36個(9種×4個)
+https://id.analoggamemuseum.org/api/items/1081,components,説明書,AI,B150,component,説明書
+https://id.analoggamemuseum.org/api/items/1081,number_of_players,2~8人位,AI,B150,numberOfPlayers,2-8
+https://id.analoggamemuseum.org/api/items/1081,game_time,10~30分,AI,B150,playTime,pt10m–pt30m
+https://id.analoggamemuseum.org/api/items/1081,audience,5才〜大人,AI,B150,audience,5-大人
+https://id.analoggamemuseum.org/api/items/1081,publisher,ちょっとずつ違う,AI,B150,publisher,ちょっとずつ違う
+https://id.analoggamemuseum.org/api/items/1081,contact_point,Mkankakugame@gmail.com,AI,B150,contactPoint,mkankakugame@gmail.com
+https://id.analoggamemuseum.org/api/items/1081,contact_point,http://chotoz.wp.xdomain.jp/,AI,B150,contactPoint,chotoz.wp.xdomain.jp
+https://id.analoggamemuseum.org/api/items/1081,responsibility_statement,考案・図案制作,AI,B150,responsibilityStatement,考案図案制作
+https://id.analoggamemuseum.org/api/items/1098,product_name,CUP 三人展,AI,B98,name,cup三人展
+https://id.analoggamemuseum.org/api/items/1098,product_name,SANNINTEN Babanuki,AI,B98,name,sannintenbabanuki
+https://id.analoggamemuseum.org/api/items/1098,product_name,カップアイドル,AI,B98,name,カップアイドル
+https://id.analoggamemuseum.org/api/items/1098,product_name,ババ抜き,AI,B98,name,ババ抜き
+https://id.analoggamemuseum.org/api/items/1098,product_name,三人展,AI,B98,name,三人展
+https://id.analoggamemuseum.org/api/items/1098,product_name,三人展ババ抜き,AI,B98,name,三人展ババ抜き
+https://id.analoggamemuseum.org/api/items/1098,product_name,犬ババ抜き,AI,B98,name,犬ババ抜き
+https://id.analoggamemuseum.org/api/items/1098,publisher,OOYAMA,AI,B98,publisher,ooyama
+https://id.analoggamemuseum.org/api/items/1098,publisher,OOYAMA'S GAME,AI,B98,publisher,ooyama'sgame
+https://id.analoggamemuseum.org/api/items/1098,publisher,オーヤマゲーム,AI,B98,publisher,オーヤマゲーム
+https://id.analoggamemuseum.org/api/items/1098,datePublished,2021,AI,B98,datePublished,2021
+https://id.analoggamemuseum.org/api/items/1098,audience,10歳+,AI,B98,audience,10-
+https://id.analoggamemuseum.org/api/items/1098,number_of_players,2-6人,AI,B98,numberOfPlayers,2-6
+https://id.analoggamemuseum.org/api/items/1098,contact_point,@ooyamasgame,AI,B98,contactPoint,@ooyamasgame
+https://id.analoggamemuseum.org/api/items/1098,contact_point,e-mail: ooyama.le.al.2009.12@gmail.com,AI,B98,contactPoint,ooyama.le.al.2009.12@gmail.com
+https://id.analoggamemuseum.org/api/items/1098,version,第1版,AI,B98,version,第1版
+https://id.analoggamemuseum.org/api/items/1098,responsibility_statement,Akihito Toda,AI,B98,responsibilityStatement,akihitotoda
+https://id.analoggamemuseum.org/api/items/1098,responsibility_statement,GAME DESIGN by Kouichi Ooyama,AI,B98,responsibilityStatement,gamedesignbykouichiooyama
+https://id.analoggamemuseum.org/api/items/1098,responsibility_statement,"GAME DESIGN by Kouichi Ooyama, Toshinao Aoki, Akihito Toda",AI,B98,responsibilityStatement,"gamedesignbykouichiooyama,toshinaoaoki,akihitotoda"
+https://id.analoggamemuseum.org/api/items/1098,responsibility_statement,カード文とイラスト、写真,AI,B98,responsibilityStatement,"カード文とイラスト,写真"
+https://id.analoggamemuseum.org/api/items/1098,responsibility_statement,カード文とイラスト、写真: 青木俊直、大山功一、戸田昭吾,AI,B98,responsibilityStatement,"カード文とイラスト,写真:青木俊直,大山功一,戸田昭吾"
+https://id.analoggamemuseum.org/api/items/1098,responsibility_statement,ゲームデザイン: 大山功一,AI,B98,responsibilityStatement,ゲームデザイン:大山功一
+https://id.analoggamemuseum.org/api/items/1098,responsibility_statement,"ゲームデザイン: 青木俊直, 大山功一, 戸田昭吾",AI,B98,responsibilityStatement,"ゲームデザイン:青木俊直,大山功一,戸田昭吾"
+https://id.analoggamemuseum.org/api/items/1098,responsibility_statement,戸田昭吾,AI,B98,responsibilityStatement,戸田昭吾
+https://id.analoggamemuseum.org/api/items/1104,version,Ver.1.0,AI,B99,version,ver.1.0
+https://id.analoggamemuseum.org/api/items/1104,version,~キャラクター追加~,AI,B99,version,~キャラクター追加~
+https://id.analoggamemuseum.org/api/items/1104,version,スタンダード版,AI,B99,version,スタンダード版
+https://id.analoggamemuseum.org/api/items/1104,version,拡張版,AI,B99,version,拡張版
+https://id.analoggamemuseum.org/api/items/1104,components,エリアカード 48枚,AI,B99,component,エリアカード48枚
+https://id.analoggamemuseum.org/api/items/1104,components,予備カード12枚,AI,B99,component,予備カード12枚
+https://id.analoggamemuseum.org/api/items/1104,components,説明書1枚,AI,B99,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1104,product_name,トレーディングかくれんぼゲーム,AI,B99,name,トレーディングかくれんぼゲーム
+https://id.analoggamemuseum.org/api/items/1104,publisher,ヒトデ工房,AI,B99,publisher,ヒトデ工房
+https://id.analoggamemuseum.org/api/items/1104,datePublished,2020,AI,B99,datePublished,2020
+https://id.analoggamemuseum.org/api/items/1104,responsibility_statement,ゲームデザイン : ヒトデラヴ (ヒトデ工房),AI,B99,responsibilityStatement,ゲームデザイン:ヒトデラヴ
+https://id.analoggamemuseum.org/api/items/1073,game_time,20~ MIN,AI,B94,playTime,pt20m–inf
+https://id.analoggamemuseum.org/api/items/1073,number_of_players,2~4 PLAYERS,AI,B94,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/1073,audience,8+ AGE,AI,B94,audience,8-
+https://id.analoggamemuseum.org/api/items/1073,product_name,HAMSTACK!,AI,B94,name,hamstack!
+https://id.analoggamemuseum.org/api/items/1073,product_name,Whoops!,AI,B94,name,whoops!
+https://id.analoggamemuseum.org/api/items/1073,components,ハムコイン 8枚,AI,B94,component,ハムコイン8枚
+https://id.analoggamemuseum.org/api/items/1073,components,ハムスターカード 42枚,AI,B94,component,ハムスターカード42枚
+https://id.analoggamemuseum.org/api/items/1073,components,リーチタイル 4枚,AI,B94,component,リーチタイル4枚
+https://id.analoggamemuseum.org/api/items/1073,components,得点チップ 27枚,AI,B94,component,得点チップ27枚
+https://id.analoggamemuseum.org/api/items/1073,components,説明書 1枚,AI,B94,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1073,publisher,Umeruma Games,AI,B94,publisher,umerumagames
+https://id.analoggamemuseum.org/api/items/1073,datePulished,2022,AI,B94,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1108,barcode,4595123971109,AI,B96,barcode,4595123971109
+https://id.analoggamemuseum.org/api/items/1108,product_name,ドウブツつくろ,AI,B96,name,ドウブツつくろ
+https://id.analoggamemuseum.org/api/items/1108,publisher,77spiele,AI,B96,publisher,77spiele
+https://id.analoggamemuseum.org/api/items/1108,number_of_players,2-5人,AI,B96,numberOfPlayers,2-5
+https://id.analoggamemuseum.org/api/items/1108,audience,6才~,AI,B96,audience,6~
+https://id.analoggamemuseum.org/api/items/1108,audience,6才以上,AI,B96,audience,6-
+https://id.analoggamemuseum.org/api/items/1108,game_time,20分,AI,B96,playTime,pt20m
+https://id.analoggamemuseum.org/api/items/1108,components,カタカナカード 57枚,AI,B96,component,カタカナカード57枚
+https://id.analoggamemuseum.org/api/items/1108,components,動物リストカード5枚,AI,B96,component,動物リストカード5枚
+https://id.analoggamemuseum.org/api/items/1108,components,説明書1枚,AI,B96,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1108,contact_point,#77spiele.jp,AI,B96,contactPoint,77spiele.jp
+https://id.analoggamemuseum.org/api/items/1108,datePulished,2022,AI,B96,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1108,responsibility_statement,作: よぎしんいち,AI,B96,responsibilityStatement,作:よぎしんいち
+https://id.analoggamemuseum.org/api/items/1080,product_name,EXACTA!,AI,B95,name,exacta!
+https://id.analoggamemuseum.org/api/items/1080,product_name,EXAGTA!,AI,B95,name,exagta!
+https://id.analoggamemuseum.org/api/items/1080,components,ご褒美カード 49枚,AI,B95,component,ご褒美カード49枚
+https://id.analoggamemuseum.org/api/items/1080,components,競走馬カード 7枚,AI,B95,component,競走馬カード7枚
+https://id.analoggamemuseum.org/api/items/1080,components,説明書 1枚,AI,B95,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1080,number_of_players,1-5人,AI,B95,numberOfPlayers,1-5
+https://id.analoggamemuseum.org/api/items/1080,publisher,ゼロビットゲームズ,AI,B95,publisher,ゼロビットゲームズ
+https://id.analoggamemuseum.org/api/items/1080,game_time,15-30分,AI,B95,playTime,pt15m–pt30m
+https://id.analoggamemuseum.org/api/items/1080,audience,8歳以上,AI,B95,audience,8-
+https://id.analoggamemuseum.org/api/items/1080,responsibility_statement,イラスト : のの,AI,B95,responsibilityStatement,イラスト:のの
+https://id.analoggamemuseum.org/api/items/1080,responsibility_statement,イラスト のの,AI,B95,responsibilityStatement,イラストのの
+https://id.analoggamemuseum.org/api/items/1080,responsibility_statement,ゲームデザイン : yasto,AI,B95,responsibilityStatement,ゲームデザイン:yasto
+https://id.analoggamemuseum.org/api/items/1080,responsibility_statement,ゲームデザイン yasto,AI,B95,responsibilityStatement,ゲームデザインyasto
+https://id.analoggamemuseum.org/api/items/1087,product_name,SAKURA-GO-ROUND,AI,B92,name,sakura-go-round
+https://id.analoggamemuseum.org/api/items/1087,product_name,しゅうかくだもん!,AI,B92,name,しゅうかくだもん!
+https://id.analoggamemuseum.org/api/items/1087,product_name,しゅうかくだもん! SAKURA-GO-ROUND,AI,B92,name,しゅうかくだもん!sakura-go-round
+https://id.analoggamemuseum.org/api/items/1087,number_of_players,2-4人,AI,B92,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/1087,audience,6才~,AI,B92,audience,6~
+https://id.analoggamemuseum.org/api/items/1087,audience,6才以上,AI,B92,audience,6-
+https://id.analoggamemuseum.org/api/items/1087,game_time,10分以上,AI,B92,playTime,pt10m–inf
+https://id.analoggamemuseum.org/api/items/1087,publisher,SAKURA-GO-ROUND,AI,B92,publisher,sakura-go-round
+https://id.analoggamemuseum.org/api/items/1087,version,SAKURA-GO-ROUND,AI,B92,version,sakura-go-round
+https://id.analoggamemuseum.org/api/items/1087,responsibility_statement,え・はんが: CHIHIRO YOSHIDA,AI,B92,responsibilityStatement,えはんが:chihiroyoshida
+https://id.analoggamemuseum.org/api/items/1087,responsibility_statement,せいさく: SAKURA-GO-ROUND,AI,B92,responsibilityStatement,せいさく:sakura-go-round
+https://id.analoggamemuseum.org/api/items/1087,responsibility_statement,絵・判画: CHIHIRO YOSHIDA,AI,B92,responsibilityStatement,絵判画:chihiroyoshida
+https://id.analoggamemuseum.org/api/items/1084,product_name,The Installation,AI,B93,name,theinstallation
+https://id.analoggamemuseum.org/api/items/1084,product_name,セグメント・セブン,AI,B93,name,セグメント・セブン
+https://id.analoggamemuseum.org/api/items/1084,components,カードサイズ:レギュラー/63×88mm,AI,B93,component,カードサイズレギュラー63×88mm
+https://id.analoggamemuseum.org/api/items/1084,components,サマリーカード/2枚,AI,B93,component,サマリーカード2枚
+https://id.analoggamemuseum.org/api/items/1084,components,プレイシート/1枚,AI,B93,component,プレイシート1枚
+https://id.analoggamemuseum.org/api/items/1084,components,プログラムカード,AI,B93,component,プログラムカード
+https://id.analoggamemuseum.org/api/items/1084,components,プログラムカード/34枚,AI,B93,component,プログラムカード34枚
+https://id.analoggamemuseum.org/api/items/1084,components,説明書/1枚,AI,B93,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1084,publisher,Sembourou,AI,B93,publisher,sembourou
+https://id.analoggamemuseum.org/api/items/1084,publisher,仙望廊,AI,B93,publisher,仙望廊
+https://id.analoggamemuseum.org/api/items/1084,datePulished,2022,AI,B93,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1084,contact_point,@sembourou,AI,B93,contactPoint,@sembourou
+https://id.analoggamemuseum.org/api/items/1084,number_of_players,2人用,AI,B93,numberOfPlayers,2
+https://id.analoggamemuseum.org/api/items/1084,game_time,15~20分,AI,B93,playTime,pt15m–pt20m
+https://id.analoggamemuseum.org/api/items/1084,audience,12歳以上,AI,B93,audience,12-
+https://id.analoggamemuseum.org/api/items/1084,audience,年齢 12歳以上,AI,B93,audience,年齢12-
+https://id.analoggamemuseum.org/api/items/1084,responsibility_statement,グラフィックデザイン/夏芽堂コーラ,AI,B93,responsibilityStatement,グラフィックデザイン夏芽堂コーラ
+https://id.analoggamemuseum.org/api/items/1084,responsibility_statement,ゲームデザイン/こかげ,AI,B93,responsibilityStatement,ゲームデザインこかげ
+https://id.analoggamemuseum.org/api/items/1084,responsibility_statement,発行/仙望廊,AI,B93,responsibilityStatement,発行仙望廊
+https://id.analoggamemuseum.org/api/items/1078,number_of_players,2~3人,AI,B91,numberOfPlayers,2-3
+https://id.analoggamemuseum.org/api/items/1078,audience,12歳~,AI,B91,audience,12~
+https://id.analoggamemuseum.org/api/items/1078,game_time,30分~,AI,B91,playTime,pt30m–inf
+https://id.analoggamemuseum.org/api/items/1078,components,アクションカード(4種類):12枚,AI,B91,component,アクションカード(4種類)12枚
+https://id.analoggamemuseum.org/api/items/1078,components,富国カード(4種類):9枚,AI,B91,component,富国カード(4種類)9枚
+https://id.analoggamemuseum.org/api/items/1078,components,政策カード:3枚,AI,B91,component,政策カード3枚
+https://id.analoggamemuseum.org/api/items/1078,components,説明書:1枚,AI,B91,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1078,components,資源カード(4種類):12枚,AI,B91,component,資源カード(4種類)12枚
+https://id.analoggamemuseum.org/api/items/1078,publisher,Key Unit,AI,B91,publisher,keyunit
+https://id.analoggamemuseum.org/api/items/1078,publisher,Key Unit班,AI,B91,publisher,keyunit班
+https://id.analoggamemuseum.org/api/items/1078,contact_point,@KeyUnit_e,AI,B91,contactPoint,@keyunit_e
+https://id.analoggamemuseum.org/api/items/1078,contact_point,Key Unit班 @KeyUnit_e,AI,B91,contactPoint,keyunit班@keyunit_e
+https://id.analoggamemuseum.org/api/items/1078,responsibility_statement,イラスト:りゅうや,AI,B91,responsibilityStatement,イラスト:りゅうや
+https://id.analoggamemuseum.org/api/items/1078,responsibility_statement,メンバー:なおあき ひろゆき りくと,AI,B91,responsibilityStatement,メンバー:なおあきひろゆきりくと
+https://id.analoggamemuseum.org/api/items/1078,responsibility_statement,製作: Key Unit,AI,B91,responsibilityStatement,製作:keyunit
+https://id.analoggamemuseum.org/api/items/1078,product_name,フコクキョウヘイ,AI,B91,name,フコクキョウヘイ
+https://id.analoggamemuseum.org/api/items/1088,audience,13歳以上,AI,B90,audience,13-
+https://id.analoggamemuseum.org/api/items/1088,components,カード36枚,AI,B90,component,カード36枚
+https://id.analoggamemuseum.org/api/items/1088,product_name,0 ゼロ,AI,B90,name,0ゼロ
+https://id.analoggamemuseum.org/api/items/1088,product_name,偽善者の会,AI,B90,name,偽善者の会
+https://id.analoggamemuseum.org/api/items/1088,publisher,偽善者の会,AI,B90,publisher,偽善者の会
+https://id.analoggamemuseum.org/api/items/1089,game_time,5-15min,AI,B89,playTime,pt5m–pt15m
+https://id.analoggamemuseum.org/api/items/1089,number_of_players,3-4人,AI,B89,numberOfPlayers,3-4
+https://id.analoggamemuseum.org/api/items/1089,audience,9歳以上,AI,B89,audience,9-
+https://id.analoggamemuseum.org/api/items/1089,publisher,ゲームズ,AI,B89,publisher,ゲームズ
+https://id.analoggamemuseum.org/api/items/1089,publisher,洒落工房ゲームズ,AI,B89,publisher,洒落工房ゲームズ
+https://id.analoggamemuseum.org/api/items/1089,publisher,螺貝ゲームズ,AI,B89,publisher,螺貝ゲームズ
+https://id.analoggamemuseum.org/api/items/1089,publisher,體回ゲームズ,AI,B89,publisher,體回ゲームズ
+https://id.analoggamemuseum.org/api/items/1089,product_name,ししゃも,AI,B89,name,ししゃも
+https://id.analoggamemuseum.org/api/items/1026,product_name,Octo Party,AI,B9,name,octoparty
+https://id.analoggamemuseum.org/api/items/1026,product_name,たこパ!,AI,B9,name,たこパ!
+https://id.analoggamemuseum.org/api/items/1026,game_time,15-20 min,AI,B9,playTime,pt15m–pt20m
+https://id.analoggamemuseum.org/api/items/1026,number_of_players,2-6人,AI,B9,numberOfPlayers,2-6
+https://id.analoggamemuseum.org/api/items/1026,audience,6+才,AI,B9,audience,6-
+https://id.analoggamemuseum.org/api/items/1026,components,ゲームカード 55枚,AI,B9,component,ゲームカード55枚
+https://id.analoggamemuseum.org/api/items/1026,components,説明書 1枚,AI,B9,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1026,publisher,ほうき星クエスト,AI,B9,publisher,ほうき星クエスト
+https://id.analoggamemuseum.org/api/items/1026,publisher,大興印刷株式会社,AI,B9,publisher,大興印刷株式会社
+https://id.analoggamemuseum.org/api/items/1026,contact_point,@comet_quest,AI,B9,contactPoint,@comet_quest
+https://id.analoggamemuseum.org/api/items/1026,contact_point,Twitter @comet_quest,AI,B9,contactPoint,twitter@comet_quest
+https://id.analoggamemuseum.org/api/items/1026,responsibility_statement,アートワーク: おかゆ梅,AI,B9,responsibilityStatement,アートワーク:おかゆ梅
+https://id.analoggamemuseum.org/api/items/1026,responsibility_statement,イラスト: akiguri,AI,B9,responsibilityStatement,イラスト:akiguri
+https://id.analoggamemuseum.org/api/items/1026,responsibility_statement,カード裏面デザイン他 説明書校正 / DTP: たむむ tmm,AI,B9,responsibilityStatement,カード裏面デザイン他説明書校正dtp:たむむtmm
+https://id.analoggamemuseum.org/api/items/1026,responsibility_statement,サークルロゴ: Sui Works,AI,B9,responsibilityStatement,サークルロゴ:suiworks
+https://id.analoggamemuseum.org/api/items/1026,responsibility_statement,"サークルロゴ: Sui Works, akiguri",AI,B9,responsibilityStatement,"サークルロゴ:suiworks,akiguri"
+https://id.analoggamemuseum.org/api/items/1026,responsibility_statement,ロゴデザイン: メロニィレモティ,AI,B9,responsibilityStatement,ロゴデザイン:メロニィレモティ
+https://id.analoggamemuseum.org/api/items/1026,responsibility_statement,印刷・製造: 大興印刷株式会社,AI,B9,responsibilityStatement,印刷製造:大興印刷株式会社
+https://id.analoggamemuseum.org/api/items/1026,responsibility_statement,製作/ゲームデザイン: ほうき星クエスト,AI,B9,responsibilityStatement,製作ゲームデザイン:ほうき星クエスト
+https://id.analoggamemuseum.org/api/items/1090,game_time,10-20min,AI,B88,playTime,pt10m–pt20m
+https://id.analoggamemuseum.org/api/items/1090,number_of_players,2-5 People,AI,B88,numberOfPlayers,2-5
+https://id.analoggamemuseum.org/api/items/1090,publisher,ONTAMA GAMES,AI,B88,publisher,ontamagames
+https://id.analoggamemuseum.org/api/items/1090,components,ゲームカード36枚,AI,B88,component,ゲームカード36枚
+https://id.analoggamemuseum.org/api/items/1090,components,説明書1部,AI,B88,component,説明書1部
+https://id.analoggamemuseum.org/api/items/1090,product_name,DIABLA,AI,B88,name,diabla
+https://id.analoggamemuseum.org/api/items/1092,number_of_players,3~6人,AI,B87,numberOfPlayers,3-6
+https://id.analoggamemuseum.org/api/items/1092,game_time,20~30分,AI,B87,playTime,pt20m–pt30m
+https://id.analoggamemuseum.org/api/items/1092,audience,10歳~,AI,B87,audience,10~
+https://id.analoggamemuseum.org/api/items/1092,product_name,Where is my body?,AI,B87,name,whereismybody?
+https://id.analoggamemuseum.org/api/items/1092,product_name,自分探しの旅,AI,B87,name,自分探しの旅
+https://id.analoggamemuseum.org/api/items/1092,publisher,無限,AI,B87,publisher,無限
+https://id.analoggamemuseum.org/api/items/1092,publisher,無限インフィニティ∞,AI,B87,publisher,無限インフィニティ∞
+https://id.analoggamemuseum.org/api/items/1092,contact_point,@mugein_8,AI,B87,contactPoint,@mugein_8
+https://id.analoggamemuseum.org/api/items/1067,product_name,ロロ,AI,B86,name,ロロ
+https://id.analoggamemuseum.org/api/items/1067,product_name,被っちゃやーよ,AI,B86,name,被っちゃやーよ
+https://id.analoggamemuseum.org/api/items/1067,components,プレイヤーカード(全9枚),AI,B86,component,プレイヤーカード(全9枚)
+https://id.analoggamemuseum.org/api/items/1067,components,プレイヤーチップ (全5枚),AI,B86,component,プレイヤーチップ(全5枚)
+https://id.analoggamemuseum.org/api/items/1067,components,特殊効果カード (全8枚),AI,B86,component,特殊効果カード(全8枚)
+https://id.analoggamemuseum.org/api/items/1067,components,説明書,AI,B86,component,説明書
+https://id.analoggamemuseum.org/api/items/1067,components,財宝カード(全40枚),AI,B86,component,財宝カード(全40枚)
+https://id.analoggamemuseum.org/api/items/1067,number_of_players,2~5人,AI,B86,numberOfPlayers,2-5
+https://id.analoggamemuseum.org/api/items/1067,audience,6歳以上,AI,B86,audience,6-
+https://id.analoggamemuseum.org/api/items/1067,game_time,20~30分,AI,B86,playTime,pt20m–pt30m
+https://id.analoggamemuseum.org/api/items/1067,publisher,LAU@HISM,AI,B86,publisher,lau@hism
+https://id.analoggamemuseum.org/api/items/1043,product_name,GREY,AI,B83,name,grey
+https://id.analoggamemuseum.org/api/items/1043,product_name,UFO,AI,B83,name,ufo
+https://id.analoggamemuseum.org/api/items/1043,product_name,Unidentified Flying Object UFO CARDGAME,AI,B83,name,unidentifiedflyingobjectufocardgame
+https://id.analoggamemuseum.org/api/items/1043,product_name,Unidentified Flying number Object,AI,B83,name,unidentifiedflyingnumberobject
+https://id.analoggamemuseum.org/api/items/1043,product_name,Unidentified Flying number Object UFO,AI,B83,name,unidentifiedflyingnumberobjectufo
+https://id.analoggamemuseum.org/api/items/1043,components,カード 113枚,AI,B83,component,カード113枚
+https://id.analoggamemuseum.org/api/items/1043,components,カード・・・ 113枚,AI,B83,component,カード・・・113枚
+https://id.analoggamemuseum.org/api/items/1043,components,シークレット 4枚,AI,B83,component,シークレット4枚
+https://id.analoggamemuseum.org/api/items/1043,components,プレイルール 1枚,AI,B83,component,プレイルール1枚
+https://id.analoggamemuseum.org/api/items/1043,components,数字カード 76枚,AI,B83,component,数字カード76枚
+https://id.analoggamemuseum.org/api/items/1043,components,数字カード・・・ 76枚,AI,B83,component,数字カード・・・76枚
+https://id.analoggamemuseum.org/api/items/1043,components,記号カード 32枚,AI,B83,component,記号カード32枚
+https://id.analoggamemuseum.org/api/items/1043,components,記号カード・・・ 32枚,AI,B83,component,記号カード・・・32枚
+https://id.analoggamemuseum.org/api/items/1043,contact_point,03-3202-2633,AI,B83,contactPoint,03-3202-2633
+https://id.analoggamemuseum.org/api/items/1043,contact_point,http://www.cyberdyne.co.jp/ufo,AI,B83,contactPoint,www.cyberdyne.co.jp/ufo
+https://id.analoggamemuseum.org/api/items/1043,contact_point,solidgame@cyberdyne.co.jp,AI,B83,contactPoint,solidgame@cyberdyne.co.jp
+https://id.analoggamemuseum.org/api/items/1043,barcode,4580666790201,AI,B83,barcode,4580666790201
+https://id.analoggamemuseum.org/api/items/1043,publisher,FLYING SHARK,AI,B83,publisher,flyingshark
+https://id.analoggamemuseum.org/api/items/1043,publisher,サイバーダイン株式会社,AI,B83,publisher,サイバーダイン株式会社
+https://id.analoggamemuseum.org/api/items/1043,publisher,株式会社スタジオハード,AI,B83,publisher,株式会社スタジオハード
+https://id.analoggamemuseum.org/api/items/1043,number_of_players,2+,AI,B83,numberOfPlayers,2+
+https://id.analoggamemuseum.org/api/items/1043,number_of_players,2-4,AI,B83,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/1043,number_of_players,2人,AI,B83,numberOfPlayers,2
+https://id.analoggamemuseum.org/api/items/1043,game_time,10min,AI,B83,playTime,pt10m
+https://id.analoggamemuseum.org/api/items/1043,audience,7+,AI,B83,audience,7-
+https://id.analoggamemuseum.org/api/items/1043,audience,8+,AI,B83,audience,8-
+https://id.analoggamemuseum.org/api/items/1052,product_name,Tamamlandı,AI,B85,name,tamamlandı
+https://id.analoggamemuseum.org/api/items/1052,product_name,タマランド,AI,B85,name,タマランド
+https://id.analoggamemuseum.org/api/items/1052,number_of_players,1人でも6人でも,AI,B85,numberOfPlayers,1でも6でも
+https://id.analoggamemuseum.org/api/items/1052,components,タイルカード 各4枚 (6人分),AI,B85,component,タイルカード各4枚(6人分)
+https://id.analoggamemuseum.org/api/items/1052,components,トレカサイズカード 36枚,AI,B85,component,トレカサイズカード36枚
+https://id.analoggamemuseum.org/api/items/1052,components,注文カード 12枚,AI,B85,component,注文カード12枚
+https://id.analoggamemuseum.org/api/items/1052,components,説明書 1枚,AI,B85,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1052,publisher,こげこげ堂本舗,AI,B85,publisher,こげこげ堂本舗
+https://id.analoggamemuseum.org/api/items/1042,product_name,バイク女子カードバトル(仮),AI,B84,name,バイク女子カードバトル(仮)
+https://id.analoggamemuseum.org/api/items/1042,components,フランクカード×5枚,AI,B84,component,フランクカード×5枚
+https://id.analoggamemuseum.org/api/items/1042,publisher,UWAGAKI LAB,AI,B84,publisher,uwagakilab
+https://id.analoggamemuseum.org/api/items/1041,product_name,Kingdom Spirits,AI,B82,name,kingdomspirits
+https://id.analoggamemuseum.org/api/items/1041,product_name,NIM&S,AI,B82,name,nim&s
+https://id.analoggamemuseum.org/api/items/1041,product_name,キングダムスピリッツ,AI,B82,name,キングダムスピリッツ
+https://id.analoggamemuseum.org/api/items/1041,number_of_players,2人,AI,B82,numberOfPlayers,2
+https://id.analoggamemuseum.org/api/items/1041,publisher,SHUNROID,AI,B82,publisher,shunroid
+https://id.analoggamemuseum.org/api/items/1041,game_time,5~20分,AI,B82,playTime,pt5m–pt20m
+https://id.analoggamemuseum.org/api/items/1041,audience,8歳以上,AI,B82,audience,8-
+https://id.analoggamemuseum.org/api/items/1041,components,サマリー 2枚,AI,B82,component,サマリー2枚
+https://id.analoggamemuseum.org/api/items/1041,components,ルールブック 2枚,AI,B82,component,ルールブック2枚
+https://id.analoggamemuseum.org/api/items/1041,components,傭兵カード 16枚,AI,B82,component,傭兵カード16枚
+https://id.analoggamemuseum.org/api/items/1041,components,勝利カウントカード 2枚,AI,B82,component,勝利カウントカード2枚
+https://id.analoggamemuseum.org/api/items/1041,components,勝利カウントキューブ 2個,AI,B82,component,勝利カウントキューブ2個
+https://id.analoggamemuseum.org/api/items/1041,components,国力カード: 14枚,AI,B82,component,国力カード14枚
+https://id.analoggamemuseum.org/api/items/1041,components,魔力キューブ 20個,AI,B82,component,魔力キューブ20個
+https://id.analoggamemuseum.org/api/items/1041,contact_point,https://shunroid.com/ks/,AI,B82,contactPoint,shunroid.com/ks
+https://id.analoggamemuseum.org/api/items/1041,responsibility_statement,スペシャルサンクス ふみんちゅ、ヤマギシー,AI,B82,responsibilityStatement,"スペシャルサンクスふみんちゅ,ヤマギシー"
+https://id.analoggamemuseum.org/api/items/1041,responsibility_statement,制作・デザイン SHUNROID,AI,B82,responsibilityStatement,制作デザインshunroid
+https://id.analoggamemuseum.org/api/items/1037,product_name,Finding Heroes,AI,B80,name,findingheroes
+https://id.analoggamemuseum.org/api/items/1037,product_name,ファインティング ヒーローズ,AI,B80,name,ファインティングヒーローズ
+https://id.analoggamemuseum.org/api/items/1037,product_name,ファインディングヒーローズ,AI,B80,name,ファインディングヒーローズ
+https://id.analoggamemuseum.org/api/items/1037,publisher,Red Games,AI,B80,publisher,redgames
+https://id.analoggamemuseum.org/api/items/1037,publisher,Red i Games,AI,B80,publisher,redigames
+https://id.analoggamemuseum.org/api/items/1037,contact_point,943-0823 新潟県上越市高土町3-7-21,AI,B80,contactPoint,943-0823新潟県上越市高土町3-7-21
+https://id.analoggamemuseum.org/api/items/1037,contact_point,〒943-0823 新潟県上越市高土町3-7-21,AI,B80,contactPoint,〒943-0823新潟県上越市高土町3-7-21
+https://id.analoggamemuseum.org/api/items/1037,components,アクションカード 20枚,AI,B80,component,アクションカード20枚
+https://id.analoggamemuseum.org/api/items/1037,components,シェイクハンド,AI,B80,component,シェイクハンド
+https://id.analoggamemuseum.org/api/items/1037,components,チャンスカード 5枚,AI,B80,component,チャンスカード5枚
+https://id.analoggamemuseum.org/api/items/1037,components,ハート,AI,B80,component,ハート
+https://id.analoggamemuseum.org/api/items/1037,components,ヒーロートークン 3個,AI,B80,component,ヒーロートークン3個
+https://id.analoggamemuseum.org/api/items/1037,components,ビッグロック,AI,B80,component,ビッグロック
+https://id.analoggamemuseum.org/api/items/1037,components,ファルコン,AI,B80,component,ファルコン
+https://id.analoggamemuseum.org/api/items/1037,components,フォックス,AI,B80,component,フォックス
+https://id.analoggamemuseum.org/api/items/1037,components,モンスターダイス 1個,AI,B80,component,モンスターダイス1個
+https://id.analoggamemuseum.org/api/items/1037,components,説明書(本書) 1枚,AI,B80,component,説明書(本書)1枚
+https://id.analoggamemuseum.org/api/items/1037,responsibility_statement,KUS 作/ピン,AI,B80,responsibilityStatement,kus作ピン
+https://id.analoggamemuseum.org/api/items/1018,product_name,SEPTEM,AI,B8,name,septem
+https://id.analoggamemuseum.org/api/items/1018,product_name,セプテム,AI,B8,name,セプテム
+https://id.analoggamemuseum.org/api/items/1018,number_of_players,2-5人,AI,B8,numberOfPlayers,2-5
+https://id.analoggamemuseum.org/api/items/1018,components,カード 36枚,AI,B8,component,カード36枚
+https://id.analoggamemuseum.org/api/items/1018,components,説明書 1枚,AI,B8,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1018,game_time,20分,AI,B8,playTime,pt20m
+https://id.analoggamemuseum.org/api/items/1018,audience,8歳以上,AI,B8,audience,8-
+https://id.analoggamemuseum.org/api/items/1018,responsibility_statement,グラフィック giso.,AI,B8,responsibilityStatement,グラフィックgiso.
+https://id.analoggamemuseum.org/api/items/1018,responsibility_statement,ゲームデザイン rintayu,AI,B8,responsibilityStatement,ゲームデザインrintayu
+https://id.analoggamemuseum.org/api/items/1039,product_name,Burning 新選組 京都 Avengers 拝,AI,B79,name,burning新選組京都avengers拝
+https://id.analoggamemuseum.org/api/items/1039,product_name,Burning 新選組 京都 アベンジャーズ,AI,B79,name,burning新選組京都アベンジャーズ
+https://id.analoggamemuseum.org/api/items/1039,product_name,Burning 新選組 京都 アベンジャーズ 拝,AI,B79,name,burning新選組京都アベンジャーズ拝
+https://id.analoggamemuseum.org/api/items/1039,product_name,バーニング,AI,B79,name,バーニング
+https://id.analoggamemuseum.org/api/items/1039,product_name,バーニング Kyoto,AI,B79,name,バーニングkyoto
+https://id.analoggamemuseum.org/api/items/1039,product_name,バーニングキョウト,AI,B79,name,バーニングキョウト
+https://id.analoggamemuseum.org/api/items/1039,product_name,バーニング京都,AI,B79,name,バーニング京都
+https://id.analoggamemuseum.org/api/items/1039,publisher,ボボン・ボン・ボジワーイ連邦,AI,B79,publisher,ボボン・ボン・ボジワーイ連邦
+https://id.analoggamemuseum.org/api/items/1039,publisher,ポポン・ポン・ポジワーイ達邦,AI,B79,publisher,ポポン・ポン・ポジワーイ達邦
+https://id.analoggamemuseum.org/api/items/1039,number_of_players,2人用,AI,B79,numberOfPlayers,2
+https://id.analoggamemuseum.org/api/items/1039,game_time,20分から,AI,B79,playTime,pt20m–inf
+https://id.analoggamemuseum.org/api/items/1039,audience,8歳から,AI,B79,audience,8から
+https://id.analoggamemuseum.org/api/items/1039,contact_point,mement_venture@yahoo.co.jp,AI,B79,contactPoint,mement_venture@yahoo.co.jp
+https://id.analoggamemuseum.org/api/items/1048,components,せいれいさんのお助けカード / 16枚,AI,B77,component,せいれいさんのお助けカード16枚
+https://id.analoggamemuseum.org/api/items/1048,components,せいれいさんのお助けカード / 16枚 (63mm×88mm),AI,B77,component,せいれいさんのお助けカード16枚(63mm×88mm)
+https://id.analoggamemuseum.org/api/items/1048,components,ようせいさんの季節カード / 84枚,AI,B77,component,ようせいさんの季節カード84枚
+https://id.analoggamemuseum.org/api/items/1048,components,ようせいさんの季節カード / 84枚 (44mm×63mm),AI,B77,component,ようせいさんの季節カード84枚(44mm×63mm)
+https://id.analoggamemuseum.org/api/items/1048,components,説明書 / 1枚,AI,B77,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1048,number_of_players,3~5人,AI,B77,numberOfPlayers,3-5
+https://id.analoggamemuseum.org/api/items/1048,audience,6歳~,AI,B77,audience,6~
+https://id.analoggamemuseum.org/api/items/1048,game_time,10分,AI,B77,playTime,pt10m
+https://id.analoggamemuseum.org/api/items/1048,contact_point,@Kotatsu_Admin,AI,B77,contactPoint,@kotatsu_admin
+https://id.analoggamemuseum.org/api/items/1048,contact_point,@Mayuno_Kiito,AI,B77,contactPoint,@mayuno_kiito
+https://id.analoggamemuseum.org/api/items/1048,contact_point,@mohumohu4646,AI,B77,contactPoint,@mohumohu4646
+https://id.analoggamemuseum.org/api/items/1048,product_name,ようせいさんの季節めぐり,AI,B77,name,ようせいさんの季節めぐり
+https://id.analoggamemuseum.org/api/items/1048,responsibility_statement,イラスト・ゲーム原案/七海しろろ,AI,B77,responsibilityStatement,イラストゲーム原案七海しろろ
+https://id.analoggamemuseum.org/api/items/1048,responsibility_statement,グラフィックデザイン/ 繭野きいと,AI,B77,responsibilityStatement,グラフィックデザイン繭野きいと
+https://id.analoggamemuseum.org/api/items/1048,responsibility_statement,ゲームデザイン/コタツ,AI,B77,responsibilityStatement,ゲームデザインコタツ
+https://id.analoggamemuseum.org/api/items/1048,responsibility_statement,ゲームデザイン/コマリ,AI,B77,responsibilityStatement,ゲームデザインコマリ
+https://id.analoggamemuseum.org/api/items/1048,publisher,oirahani-board games,AI,B77,publisher,oirahani-boardgames
+https://id.analoggamemuseum.org/api/items/1048,publisher,ooirohani-board gemooc.,AI,B77,publisher,ooirohani-boardgemooc.
+https://id.analoggamemuseum.org/api/items/1027,product_name,UMIZUSHI,AI,B73,name,umizushi
+https://id.analoggamemuseum.org/api/items/1027,product_name,UMIZUSHIセット,AI,B73,name,umizushiセット
+https://id.analoggamemuseum.org/api/items/1027,components,UMIZUSHIボード各4枚,AI,B73,component,umizushiボード各4枚
+https://id.analoggamemuseum.org/api/items/1027,components,とれたてボード4枚,AI,B73,component,とれたてボード4枚
+https://id.analoggamemuseum.org/api/items/1027,components,ウミウシチップ33枚,AI,B73,component,ウミウシチップ33枚
+https://id.analoggamemuseum.org/api/items/1027,components,エサチップ33枚,AI,B73,component,エサチップ33枚
+https://id.analoggamemuseum.org/api/items/1027,components,エサマーケット2枚,AI,B73,component,エサマーケット2枚
+https://id.analoggamemuseum.org/api/items/1027,components,スタートプレイヤーチップ1枚,AI,B73,component,スタートプレイヤーチップ1枚
+https://id.analoggamemuseum.org/api/items/1027,components,ベビーチップ12枚,AI,B73,component,ベビーチップ12枚
+https://id.analoggamemuseum.org/api/items/1027,components,役カード12枚,AI,B73,component,役カード12枚
+https://id.analoggamemuseum.org/api/items/1027,components,説明書1枚,AI,B73,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1027,components,黒ウミウシチップ 5枚,AI,B73,component,黒ウミウシチップ5枚
+https://id.analoggamemuseum.org/api/items/1027,publisher,Umeruma Games,AI,B73,publisher,umerumagames
+https://id.analoggamemuseum.org/api/items/1027,datePulished,2022,AI,B73,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1027,game_time,30 MIN,AI,B73,playTime,pt30m
+https://id.analoggamemuseum.org/api/items/1027,number_of_players,2-4 PLAYERS,AI,B73,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/1027,audience,8+ AGE,AI,B73,audience,8-
+https://id.analoggamemuseum.org/api/items/1017,product_name,えるかるた,AI,B75,name,えるかるた
+https://id.analoggamemuseum.org/api/items/1017,product_name,冴えるかるた,AI,B75,name,冴えるかるた
+https://id.analoggamemuseum.org/api/items/1017,version,第2弾,AI,B75,version,第2弾
+https://id.analoggamemuseum.org/api/items/1017,components,予備札1組,AI,B75,component,予備札1組
+https://id.analoggamemuseum.org/api/items/1017,components,取り札 38枚,AI,B75,component,取り札38枚
+https://id.analoggamemuseum.org/api/items/1017,components,説明書 1枚,AI,B75,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1017,components,読み札 38枚,AI,B75,component,読み札38枚
+https://id.analoggamemuseum.org/api/items/1017,publisher,Ending Maker's,AI,B75,publisher,endingmaker's
+https://id.analoggamemuseum.org/api/items/1017,publisher,エンディングメーカーズ,AI,B75,publisher,エンディングメーカーズ
+https://id.analoggamemuseum.org/api/items/1017,number_of_players,3-6人,AI,B75,numberOfPlayers,3-6
+https://id.analoggamemuseum.org/api/items/1017,audience,12歳以上,AI,B75,audience,12-
+https://id.analoggamemuseum.org/api/items/1017,responsibility_statement,制作:Ending Maker's,AI,B75,responsibilityStatement,制作:endingmaker's
+https://id.analoggamemuseum.org/api/items/1017,volume,第2弾,AI,B75,volume,第2弾
+https://id.analoggamemuseum.org/api/items/1028,product_name,SHUHARI,AI,B72,name,shuhari
+https://id.analoggamemuseum.org/api/items/1028,product_name,守破離,AI,B72,name,守破離
+https://id.analoggamemuseum.org/api/items/1028,components,ステージ表示札 2枚,AI,B72,component,ステージ表示札2枚
+https://id.analoggamemuseum.org/api/items/1028,components,予習カード 5枚,AI,B72,component,予習カード5枚
+https://id.analoggamemuseum.org/api/items/1028,components,復習カード 5枚,AI,B72,component,復習カード5枚
+https://id.analoggamemuseum.org/api/items/1028,components,早見表,AI,B72,component,早見表
+https://id.analoggamemuseum.org/api/items/1028,components,習得表,AI,B72,component,習得表
+https://id.analoggamemuseum.org/api/items/1028,components,芸事カード 60枚,AI,B72,component,芸事カード60枚
+https://id.analoggamemuseum.org/api/items/1028,components,説明書,AI,B72,component,説明書
+https://id.analoggamemuseum.org/api/items/1028,publisher,HANIWA Games,AI,B72,publisher,haniwagames
+https://id.analoggamemuseum.org/api/items/1028,responsibility_statement,ゲームデザイン/アートワーク: R. Fujiwara,AI,B72,responsibilityStatement,ゲームデザインアートワーク:r.fujiwara
+https://id.analoggamemuseum.org/api/items/1028,responsibility_statement,書(箱・カード): Sui works,AI,B72,responsibilityStatement,書:suiworks
+https://id.analoggamemuseum.org/api/items/1028,responsibility_statement,書(箱・カード)・校正/DTPデザイン: Tomoko Sui works,AI,B72,responsibilityStatement,書校正dtpデザイン:tomokosuiworks
+https://id.analoggamemuseum.org/api/items/1028,responsibility_statement,校正/DTPデザイン: Tomoko,AI,B72,responsibilityStatement,校正dtpデザイン:tomoko
+https://id.analoggamemuseum.org/api/items/1028,volume,破,AI,B72,volume,破
+https://id.analoggamemuseum.org/api/items/1028,volume,離,AI,B72,volume,離
+https://id.analoggamemuseum.org/api/items/1019,components,カード:24枚,AI,B7,component,カード24枚
+https://id.analoggamemuseum.org/api/items/1019,components,タイル:37枚,AI,B7,component,タイル37枚
+https://id.analoggamemuseum.org/api/items/1019,components,プレイヤーシート:4枚,AI,B7,component,プレイヤーシート4枚
+https://id.analoggamemuseum.org/api/items/1019,components,マーカー:8枚,AI,B7,component,マーカー8枚
+https://id.analoggamemuseum.org/api/items/1019,components,リスト,AI,B7,component,リスト
+https://id.analoggamemuseum.org/api/items/1019,components,商会台帳,AI,B7,component,商会台帳
+https://id.analoggamemuseum.org/api/items/1019,components,商会台帳、リスト、説明書:各1部,AI,B7,component,商会台帳、リスト、説明書各1部
+https://id.analoggamemuseum.org/api/items/1019,components,物商会台帳、リスト、説明書:各1部,AI,B7,component,物商会台帳、リスト、説明書各1部
+https://id.analoggamemuseum.org/api/items/1019,components,説明書:各1部,AI,B7,component,説明書各1部
+https://id.analoggamemuseum.org/api/items/1019,audience,3才未満のお子様,AI,B7,audience,3未満のお子様
+https://id.analoggamemuseum.org/api/items/1019,product_name,FRONTIER with BROWNIES,AI,B7,name,frontierwithbrownies
+https://id.analoggamemuseum.org/api/items/1019,product_name,フロンティア,AI,B7,name,フロンティア
+https://id.analoggamemuseum.org/api/items/1019,product_name,フロンティア・ウィズ・ブラウニーズ,AI,B7,name,フロンティア・ウィズ・ブラウニーズ
+https://id.analoggamemuseum.org/api/items/1019,identifier,521-113,AI,B7,identifier,521-113
+https://id.analoggamemuseum.org/api/items/1019,publisher,株式会社やのまん,AI,B7,publisher,株式会社やのまん
+https://id.analoggamemuseum.org/api/items/1019,contact_point,03-3865-8493,AI,B7,contactPoint,03-3865-8493
+https://id.analoggamemuseum.org/api/items/1019,contact_point,https://www.yanoman.co.jp,AI,B7,contactPoint,www.yanoman.co.jp
+https://id.analoggamemuseum.org/api/items/1019,contact_point,〒111-0051 東京都台東区蔵前2-6-4 マスダヤビル7F,AI,B7,contactPoint,〒111-0051東京都台東区蔵前2-6-4マスダヤビル7f
+https://id.analoggamemuseum.org/api/items/1019,responsibility_statement,イラスト:里瀬ほとり,AI,B7,responsibilityStatement,イラスト:里瀬ほとり
+https://id.analoggamemuseum.org/api/items/1019,responsibility_statement,ゲームデザイン : Shun & AYA (Studio GG),AI,B7,responsibilityStatement,ゲームデザイン:shun&aya
+https://id.analoggamemuseum.org/api/items/1019,responsibility_statement,製品デザイン : ダットニーデザイン,AI,B7,responsibilityStatement,製品デザイン:ダットニーデザイン
+https://id.analoggamemuseum.org/api/items/1019,barcode,4979817521137,AI,B7,barcode,4979817521137
+https://id.analoggamemuseum.org/api/items/1746,product_name,O.D.K.K,AI,B69,name,o.d.k.k
+https://id.analoggamemuseum.org/api/items/1746,product_name,Outing Days for Key Kinetics,AI,B69,name,outingdaysforkeykinetics
+https://id.analoggamemuseum.org/api/items/1746,components,イベントカード 20枚,AI,B69,component,イベントカード20枚
+https://id.analoggamemuseum.org/api/items/1746,components,イベントカード 6枚,AI,B69,component,イベントカード6枚
+https://id.analoggamemuseum.org/api/items/1746,components,グッズカード 1枚,AI,B69,component,グッズカード1枚
+https://id.analoggamemuseum.org/api/items/1746,components,グッズカード 20枚,AI,B69,component,グッズカード20枚
+https://id.analoggamemuseum.org/api/items/1746,components,天気カード 9枚,AI,B69,component,天気カード9枚
+https://id.analoggamemuseum.org/api/items/1746,components,得点カード 1枚,AI,B69,component,得点カード1枚
+https://id.analoggamemuseum.org/api/items/1746,components,得点カード 6枚,AI,B69,component,得点カード6枚
+https://id.analoggamemuseum.org/api/items/1746,components,得点マーカー 4個,AI,B69,component,得点マーカー4個
+https://id.analoggamemuseum.org/api/items/1746,components,説明書 1枚,AI,B69,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1746,audience,6歳以上,AI,B69,audience,6-
+https://id.analoggamemuseum.org/api/items/1746,game_time,15min,AI,B69,playTime,pt15m
+https://id.analoggamemuseum.org/api/items/1746,number_of_players,2P~4P,AI,B69,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/1746,publisher,ガヤック,AI,B69,publisher,ガヤック
+https://id.analoggamemuseum.org/api/items/1746,contact_point,gayatsuku@gmail.com,AI,B69,contactPoint,gayatsuku@gmail.com
+https://id.analoggamemuseum.org/api/items/1746,datePulished,2020年11月,AI,B69,datePublished,202011
+https://id.analoggamemuseum.org/api/items/1746,datePulished,2020年11月 第1版,AI,B69,datePublished,2020111
+https://id.analoggamemuseum.org/api/items/1746,responsibility_statement,ゲームアート : もすこ (@mosuko_777),AI,B69,responsibilityStatement,ゲームアート:もすこ
+https://id.analoggamemuseum.org/api/items/1746,responsibility_statement,ゲーム企画・デザイン : ガヤック (@hodo_gayatsuku),AI,B69,responsibilityStatement,ゲーム企画デザイン:ガヤック
+https://id.analoggamemuseum.org/api/items/1746,version,第1版,AI,B69,version,第1版
+https://id.analoggamemuseum.org/api/items/1753,product_name,キャラクター決定戦,AI,B65,name,キャラクター決定戦
+https://id.analoggamemuseum.org/api/items/1753,components,58枚+2枚(予備),AI,B65,component,58枚+2枚(予備)
+https://id.analoggamemuseum.org/api/items/1753,number_of_players,2~8人,AI,B65,numberOfPlayers,2-8
+https://id.analoggamemuseum.org/api/items/1753,game_time,5~15分,AI,B65,playTime,pt5m–pt15m
+https://id.analoggamemuseum.org/api/items/1753,contact_point,@mit_kouba,AI,B65,contactPoint,@mit_kouba
+https://id.analoggamemuseum.org/api/items/1753,contact_point,mit.kouba@gmail.com,AI,B65,contactPoint,mit.kouba@gmail.com
+https://id.analoggamemuseum.org/api/items/1753,responsibility_statement,企画: ミツイシ考場,AI,B65,responsibilityStatement,企画:ミツイシ考場
+https://id.analoggamemuseum.org/api/items/1753,responsibility_statement,企画・制作: ミツイシ考場,AI,B65,responsibilityStatement,企画制作:ミツイシ考場
+https://id.analoggamemuseum.org/api/items/1753,responsibility_statement,制作: ミツイシ考場,AI,B65,responsibilityStatement,制作:ミツイシ考場
+https://id.analoggamemuseum.org/api/items/1753,publisher,ミツイシ考場,AI,B65,publisher,ミツイシ考場
+https://id.analoggamemuseum.org/api/items/3313,components,ゲームカード 56枚,AI,B624,component,ゲームカード56枚
+https://id.analoggamemuseum.org/api/items/3313,components,ポイントカード 56枚,AI,B624,component,ポイントカード56枚
+https://id.analoggamemuseum.org/api/items/3313,components,総数112枚,AI,B624,component,総数112枚
+https://id.analoggamemuseum.org/api/items/3313,publisher,Kawada,AI,B624,publisher,kawada
+https://id.analoggamemuseum.org/api/items/3313,publisher,Kawada.,AI,B624,publisher,kawada.
+https://id.analoggamemuseum.org/api/items/3313,publisher,"NIPPON ANIMATION CO., LTD",AI,B624,publisher,"nipponanimationco.,ltd"
+https://id.analoggamemuseum.org/api/items/3313,publisher,アマダ,AI,B624,publisher,アマダ
+https://id.analoggamemuseum.org/api/items/3313,identifier,101007-2156853-01800,AI,B624,identifier,101007-2156853-01800
+https://id.analoggamemuseum.org/api/items/3313,barcode,4970381006358,AI,B624,barcode,4970381006358
+https://id.analoggamemuseum.org/api/items/3313,contact_point,(社)日本玩具協会 東京都墨田区東駒形4-22-4,AI,B624,contactPoint,(社)日本玩具協会東京都墨田区東駒形4-22-4
+https://id.analoggamemuseum.org/api/items/3313,product_name,フランダースの犬,AI,B624,name,フランダースの犬
+https://id.analoggamemuseum.org/api/items/3313,product_name,世界名作劇場,AI,B624,name,世界名作劇場
+https://id.analoggamemuseum.org/api/items/3313,product_name,世界名作劇場カードゲーム,AI,B624,name,世界名作劇場カードゲーム
+https://id.analoggamemuseum.org/api/items/3313,datePulished,1975,AI,B624,datePublished,1975
+https://id.analoggamemuseum.org/api/items/3317,components,カード100枚,AI,B621,component,カード100枚
+https://id.analoggamemuseum.org/api/items/3317,product_name,メーカー,AI,B621,name,メーカー
+https://id.analoggamemuseum.org/api/items/3317,product_name,モンスターメーカー,AI,B621,name,モンスターメーカー
+https://id.analoggamemuseum.org/api/items/3317,publisher,SHOW KIKAKU,AI,B621,publisher,showkikaku
+https://id.analoggamemuseum.org/api/items/3317,publisher,翔企画,AI,B621,publisher,翔企画
+https://id.analoggamemuseum.org/api/items/3317,contact_point,TEL (03)3237-9498,AI,B621,contactPoint,tel(03)3237-9498
+https://id.analoggamemuseum.org/api/items/3317,contact_point,東京都千代田区神田神保町2-10 TEL (03)3237-9498,AI,B621,contactPoint,東京都千代田区神田神保町2-10tel(03)3237-9498
+https://id.analoggamemuseum.org/api/items/3317,datePulished,1991,AI,B621,datePublished,1991
+https://id.analoggamemuseum.org/api/items/3317,responsibility_statement,イラスト九月姫,AI,B621,responsibilityStatement,イラスト九月姫
+https://id.analoggamemuseum.org/api/items/3310,product_name,だいすくえすと,AI,B620,name,だいすくえすと
+https://id.analoggamemuseum.org/api/items/3310,volume,挑戦者たち,AI,B620,volume,挑戦者たち
+https://id.analoggamemuseum.org/api/items/3310,volume,破壊の章,AI,B620,volume,破壊の章
+https://id.analoggamemuseum.org/api/items/3310,components,シール:1セット,AI,B620,component,シール1セット
+https://id.analoggamemuseum.org/api/items/3310,components,ルール:一枚,AI,B620,component,ルール一枚
+https://id.analoggamemuseum.org/api/items/3310,components,冒険者記録表:一冊,AI,B620,component,冒険者記録表一冊
+https://id.analoggamemuseum.org/api/items/3310,components,特殊サイコロ 4ヶ,AI,B620,component,特殊サイコロ4ヶ
+https://id.analoggamemuseum.org/api/items/3310,components,迷宮記録表:一冊,AI,B620,component,迷宮記録表一冊
+https://id.analoggamemuseum.org/api/items/3310,number_of_players,一人~∞,AI,B620,numberOfPlayers,一-∞
+https://id.analoggamemuseum.org/api/items/3310,game_time,五秒~∞,AI,B620,playTime,pt∞m
+https://id.analoggamemuseum.org/api/items/3310,audience,10才以上,AI,B620,audience,10-
+https://id.analoggamemuseum.org/api/items/3310,contact_point,TEL 03-3861-8983,AI,B620,contactPoint,tel03-3861-8983
+https://id.analoggamemuseum.org/api/items/3310,contact_point,〒111 東京都台東区柳橋2-15-5 (第二真市ビル) TEL 03-3861-8983,AI,B620,contactPoint,〒111東京都台東区柳橋2-15-5(第二真市ビル)tel03-3861-8983
+https://id.analoggamemuseum.org/api/items/3310,publisher,SHINWA CORPORATION,AI,B620,publisher,shinwacorporation
+https://id.analoggamemuseum.org/api/items/3310,publisher,株式会社 新和,AI,B620,publisher,株式会社新和
+https://id.analoggamemuseum.org/api/items/3310,version,挑戦者たち,AI,B620,version,挑戦者たち
+https://id.analoggamemuseum.org/api/items/3312,product_name,BASS HITCHU,AI,B617,name,basshitchu
+https://id.analoggamemuseum.org/api/items/3312,product_name,バスフィッシングカードゲーム,AI,B617,name,バスフィッシングカードゲーム
+https://id.analoggamemuseum.org/api/items/3312,product_name,パス必中,AI,B617,name,パス必中
+https://id.analoggamemuseum.org/api/items/3312,publisher,BAN DAI,AI,B617,publisher,bandai
+https://id.analoggamemuseum.org/api/items/3312,publisher,バンダイ,AI,B617,publisher,バンダイ
+https://id.analoggamemuseum.org/api/items/3312,publisher,株式会社バンダイ,AI,B617,publisher,株式会社バンダイ
+https://id.analoggamemuseum.org/api/items/3312,contact_point,(中部) 名古屋市昭和区御器所3-2-5 466-0051 052-872-0371,AI,B617,contactPoint,(中部)名古屋市昭和区御器所3-2-5466-0051052-872-0371
+https://id.analoggamemuseum.org/api/items/3312,contact_point,(関西) 大阪市北区豊崎 4-12-3 531-0072 06-6375-5050,AI,B617,contactPoint,(関西)大阪市北区豊崎4-12-3531-007206-6375-5050
+https://id.analoggamemuseum.org/api/items/3312,contact_point,0471-46-0371,AI,B617,contactPoint,0471-46-0371
+https://id.analoggamemuseum.org/api/items/3312,contact_point,052-872-0371,AI,B617,contactPoint,052-872-0371
+https://id.analoggamemuseum.org/api/items/3312,contact_point,06-6375-5050,AI,B617,contactPoint,06-6375-5050
+https://id.analoggamemuseum.org/api/items/3312,contact_point,277-8511,AI,B617,contactPoint,277-8511
+https://id.analoggamemuseum.org/api/items/3312,contact_point,466-0051,AI,B617,contactPoint,466-0051
+https://id.analoggamemuseum.org/api/items/3312,contact_point,531-0072,AI,B617,contactPoint,531-0072
+https://id.analoggamemuseum.org/api/items/3312,contact_point,〒111-8081 東京都台東区駒形2-5-4,AI,B617,contactPoint,〒111-8081東京都台東区駒形2-5-4
+https://id.analoggamemuseum.org/api/items/3312,contact_point,お客様相談センター,AI,B617,contactPoint,お客様相談センター
+https://id.analoggamemuseum.org/api/items/3312,contact_point,バンダイお客様相談センター (関東) 柏市豊四季 241-22 277-8511 0471-46-0371,AI,B617,contactPoint,バンダイお客様相談センター(関東)柏市豊四季241-22277-85110471-46-0371
+https://id.analoggamemuseum.org/api/items/3312,datePulished,2000,AI,B617,datePublished,2000
+https://id.analoggamemuseum.org/api/items/3312,components,アングラーカード 14種(60枚),AI,B617,component,アングラーカード14種(60枚)
+https://id.analoggamemuseum.org/api/items/3312,components,カード90枚,AI,B617,component,カード90枚
+https://id.analoggamemuseum.org/api/items/3312,components,カード90枚/全26種,AI,B617,component,カード90枚全26種
+https://id.analoggamemuseum.org/api/items/3312,components,ゲームカード90枚,AI,B617,component,ゲームカード90枚
+https://id.analoggamemuseum.org/api/items/3312,components,ゲームカード90枚入り,AI,B617,component,ゲームカード90枚入り
+https://id.analoggamemuseum.org/api/items/3312,components,ゲームフィールド付き,AI,B617,component,ゲームフィールド付き
+https://id.analoggamemuseum.org/api/items/3312,components,ゲームマニュアル1冊,AI,B617,component,ゲームマニュアル1冊
+https://id.analoggamemuseum.org/api/items/3312,components,フィッシュアップカード 12種(30枚),AI,B617,component,フィッシュアップカード12種(30枚)
+https://id.analoggamemuseum.org/api/items/3312,barcode,4902425760223,AI,B617,barcode,4902425760223
+https://id.analoggamemuseum.org/api/items/3312,identifier,751293-0076022-1480,AI,B617,identifier,751293-0076022-1480
+https://id.analoggamemuseum.org/api/items/3312,version,基本セット,AI,B617,version,基本セット
+https://id.analoggamemuseum.org/api/items/3312,number_of_players,2~4人用,AI,B617,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/1337,publisher,Booo! GAMES,AI,B61,publisher,booo!games
+https://id.analoggamemuseum.org/api/items/1337,publisher,ブーゲームス,AI,B61,publisher,ブーゲームス
+https://id.analoggamemuseum.org/api/items/1337,game_time,10-15分,AI,B61,playTime,pt10m–pt15m
+https://id.analoggamemuseum.org/api/items/1337,number_of_players,3-6人,AI,B61,numberOfPlayers,3-6
+https://id.analoggamemuseum.org/api/items/1337,audience,10-99歳,AI,B61,audience,10-99
+https://id.analoggamemuseum.org/api/items/1337,components,アクションカード x21枚,AI,B61,component,アクションカードx21枚
+https://id.analoggamemuseum.org/api/items/1337,components,サマリーカード x6枚,AI,B61,component,サマリーカードx6枚
+https://id.analoggamemuseum.org/api/items/1337,components,サマリーカード×6枚,AI,B61,component,サマリーカード×6枚
+https://id.analoggamemuseum.org/api/items/1337,components,パウダーカード x56枚,AI,B61,component,パウダーカードx56枚
+https://id.analoggamemuseum.org/api/items/1337,components,手番マーカー x1枚,AI,B61,component,手番マーカーx1枚
+https://id.analoggamemuseum.org/api/items/1337,components,手番マーカー×1枚,AI,B61,component,手番マーカー×1枚
+https://id.analoggamemuseum.org/api/items/1337,contact_point,E-mail: booogames82@gmail.com,AI,B61,contactPoint,booogames82@gmail.com
+https://id.analoggamemuseum.org/api/items/1337,contact_point,twitter : @booo_games82,AI,B61,contactPoint,@booo_games82
+https://id.analoggamemuseum.org/api/items/1337,contact_point,twitter : @in_room0905,AI,B61,contactPoint,@in_room0905
+https://id.analoggamemuseum.org/api/items/1337,datePulished,2020,AI,B61,datePublished,2020
+https://id.analoggamemuseum.org/api/items/1337,product_name,「ポリが来た!」,AI,B61,name,「ポリが来た!」
+https://id.analoggamemuseum.org/api/items/1337,product_name,キメてハピネス,AI,B61,name,キメてハピネス
+https://id.analoggamemuseum.org/api/items/1337,product_name,ポリが来た!,AI,B61,name,ポリが来た!
+https://id.analoggamemuseum.org/api/items/1337,responsibility_statement,イラスト: 憶春リュウ,AI,B61,responsibilityStatement,イラスト:憶春リュウ
+https://id.analoggamemuseum.org/api/items/1337,responsibility_statement,製作: Booo! GAMES,AI,B61,responsibilityStatement,製作:booo!games
+https://id.analoggamemuseum.org/api/items/3278,product_name,THE STYLE OF HERMES,AI,B556,name,thestyleofhermes
+https://id.analoggamemuseum.org/api/items/3278,product_name,The NXK流儀 arkn,AI,B556,name,thenxk流儀arkn
+https://id.analoggamemuseum.org/api/items/3278,product_name,XILXX 流,AI,B556,name,xilxx流
+https://id.analoggamemuseum.org/api/items/3278,product_name,XX流,AI,B556,name,xx流
+https://id.analoggamemuseum.org/api/items/3278,product_name,XX流儀,AI,B556,name,xx流儀
+https://id.analoggamemuseum.org/api/items/3278,product_name,エルメス流,AI,B556,name,エルメス流
+https://id.analoggamemuseum.org/api/items/3278,product_name,ヘルメスの流儀 arkn,AI,B556,name,ヘルメスの流儀arkn
+https://id.analoggamemuseum.org/api/items/3278,number_of_players,2-4人,AI,B556,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/3278,game_time,15分,AI,B556,playTime,pt15m
+https://id.analoggamemuseum.org/api/items/3278,audience,8歳~,AI,B556,audience,8~
+https://id.analoggamemuseum.org/api/items/3278,audience,8歳以上向け,AI,B556,audience,8-向け
+https://id.analoggamemuseum.org/api/items/3278,audience,8歳～,AI,B556,audience,8-
+https://id.analoggamemuseum.org/api/items/3278,components,カード56枚,AI,B556,component,カード56枚
+https://id.analoggamemuseum.org/api/items/3278,components,説明書,AI,B556,component,説明書
+https://id.analoggamemuseum.org/api/items/3278,components,護符,AI,B556,component,護符
+https://id.analoggamemuseum.org/api/items/3278,publisher,ガーデンゲームズ,AI,B556,publisher,ガーデンゲームズ
+https://id.analoggamemuseum.org/api/items/3278,datePulished,2017,AI,B556,datePublished,2017
+https://id.analoggamemuseum.org/api/items/3278,contact_point,http://gardengames.blog40.fc2.com/,AI,B556,contactPoint,gardengames.blog40.fc2.com
+https://id.analoggamemuseum.org/api/items/3278,responsibility_statement,アートワーク: ことり寧子,AI,B556,responsibilityStatement,アートワーク:ことり寧子
+https://id.analoggamemuseum.org/api/items/3278,responsibility_statement,ゲームデザイン: 樫尾忠英,AI,B556,responsibilityStatement,ゲームデザイン:樫尾忠英
+https://id.analoggamemuseum.org/api/items/1762,product_name,"プログラム言語
+神経衰弱",AI,B59,name,プログラム言語神経衰弱
+https://id.analoggamemuseum.org/api/items/1762,product_name,揚げピーナッツ,AI,B59,name,揚げピーナッツ
+https://id.analoggamemuseum.org/api/items/3279,product_name,てんてんといち,AI,B555,name,てんてんといち
+https://id.analoggamemuseum.org/api/items/3279,product_name,巡り巡るお市の物語,AI,B555,name,巡り巡るお市の物語
+https://id.analoggamemuseum.org/api/items/3279,product_name,豬師,AI,B555,name,豬師
+https://id.analoggamemuseum.org/api/items/3279,number_of_players,2-4人,AI,B555,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/3279,game_time,10分,AI,B555,playTime,pt10m
+https://id.analoggamemuseum.org/api/items/3279,audience,8歳以上,AI,B555,audience,8-
+https://id.analoggamemuseum.org/api/items/3279,components,めくって獲得カード4枚,AI,B555,component,めくって獲得カード4枚
+https://id.analoggamemuseum.org/api/items/3279,components,カード内容一覧表1枚,AI,B555,component,カード内容一覧表1枚
+https://id.analoggamemuseum.org/api/items/3279,components,プレイカード38枚,AI,B555,component,プレイカード38枚
+https://id.analoggamemuseum.org/api/items/3279,components,獲得カード8枚,AI,B555,component,獲得カード8枚
+https://id.analoggamemuseum.org/api/items/3279,publisher,Garden Games,AI,B555,publisher,gardengames
+https://id.analoggamemuseum.org/api/items/3279,publisher,The Garden,AI,B555,publisher,thegarden
+https://id.analoggamemuseum.org/api/items/3279,contact_point,http://gardengames.blog40.fc2.com/,AI,B555,contactPoint,gardengames.blog40.fc2.com
+https://id.analoggamemuseum.org/api/items/3279,responsibility_statement,アートワーク:シキリト,AI,B555,responsibilityStatement,アートワーク:シキリト
+https://id.analoggamemuseum.org/api/items/3279,responsibility_statement,ゲームデザイン:樫尾忠英,AI,B555,responsibilityStatement,ゲームデザイン:樫尾忠英
+https://id.analoggamemuseum.org/api/items/1016,product_name,ルビンの壺,AI,B6,name,ルビンの壺
+https://id.analoggamemuseum.org/api/items/1016,product_name,偽善者の会,AI,B6,name,偽善者の会
+https://id.analoggamemuseum.org/api/items/1016,components,カード36枚,AI,B6,component,カード36枚
+https://id.analoggamemuseum.org/api/items/3326,product_name,Wacky Races,AI,B520,name,wackyraces
+https://id.analoggamemuseum.org/api/items/3326,product_name,ケンケンのそれいけすりぬけ大作戦,AI,B520,name,ケンケンのそれいけすりぬけ大作戦
+https://id.analoggamemuseum.org/api/items/3326,product_name,大作戦 ケンケン,AI,B520,name,大作戦ケンケン
+https://id.analoggamemuseum.org/api/items/3326,product_name,大作戦 ケンケン それいけ!すりぬけ,AI,B520,name,大作戦ケンケンそれいけ!すりぬけ
+https://id.analoggamemuseum.org/api/items/3326,game_time,5分,AI,B520,playTime,pt5m
+https://id.analoggamemuseum.org/api/items/3326,number_of_players,3~6人,AI,B520,numberOfPlayers,3-6
+https://id.analoggamemuseum.org/api/items/3326,components,56枚,AI,B520,component,56枚
+https://id.analoggamemuseum.org/api/items/3326,components,カード枚数>56枚,AI,B520,component,カード枚数>56枚
+https://id.analoggamemuseum.org/api/items/3326,datePulished,1993,AI,B520,datePublished,1993
+https://id.analoggamemuseum.org/api/items/3326,publisher,HANNA BARBERA,AI,B520,publisher,hannabarbera
+https://id.analoggamemuseum.org/api/items/3326,publisher,"HANNA-BARBERA PRODUCTIONS, INC.",AI,B520,publisher,"hanna-barberaproductions,inc."
+https://id.analoggamemuseum.org/api/items/3326,publisher,"NIPPON COLUMBIA CO.,LTD.",AI,B520,publisher,"nipponcolumbiaco.,ltd."
+https://id.analoggamemuseum.org/api/items/3326,publisher,ONI PRODUCTION,AI,B520,publisher,oniproduction
+https://id.analoggamemuseum.org/api/items/3326,publisher,PAPEL CREATION,AI,B520,publisher,papelcreation
+https://id.analoggamemuseum.org/api/items/3326,publisher,パペルクリエイション,AI,B520,publisher,パペルクリエイション
+https://id.analoggamemuseum.org/api/items/3326,publisher,パペルクリエイション事業部,AI,B520,publisher,パペルクリエイション事業部
+https://id.analoggamemuseum.org/api/items/3326,publisher,株式会社 青島文化教材社,AI,B520,publisher,株式会社青島文化教材社
+https://id.analoggamemuseum.org/api/items/3326,barcode,4905083081037,AI,B520,barcode,4905083081037
+https://id.analoggamemuseum.org/api/items/3326,identifier,PK01-1200,AI,B520,identifier,pk01-1200
+https://id.analoggamemuseum.org/api/items/3326,contact_point,FAX.054-263-9001,AI,B520,contactPoint,fax.054-263-9001
+https://id.analoggamemuseum.org/api/items/3326,contact_point,TEL.054-263-2525,AI,B520,contactPoint,tel.054-263-2525
+https://id.analoggamemuseum.org/api/items/3320,product_name,SAME ONE!,AI,B517,name,sameone!
+https://id.analoggamemuseum.org/api/items/3320,publisher,ONE DRAW,AI,B517,publisher,onedraw
+https://id.analoggamemuseum.org/api/items/3320,number_of_players,3~9人,AI,B517,numberOfPlayers,3-9
+https://id.analoggamemuseum.org/api/items/3320,number_of_players,最大9人,AI,B517,numberOfPlayers,最大9
+https://id.analoggamemuseum.org/api/items/3320,components,カード:90枚,AI,B517,component,カード90枚
+https://id.analoggamemuseum.org/api/items/3320,components,マニュアル: 2部,AI,B517,component,マニュアル2部
+https://id.analoggamemuseum.org/api/items/3320,game_time,10分〜,AI,B517,playTime,pt10m–inf
+https://id.analoggamemuseum.org/api/items/3320,audience,6才以上,AI,B517,audience,6-
+https://id.analoggamemuseum.org/api/items/3320,barcode,4562227550202,AI,B517,barcode,4562227550202
+https://id.analoggamemuseum.org/api/items/3329,components,王,AI,B524,component,王
+https://id.analoggamemuseum.org/api/items/3329,components,金,AI,B524,component,金
+https://id.analoggamemuseum.org/api/items/3329,components,飛,AI,B524,component,飛
+https://id.analoggamemuseum.org/api/items/3329,components,香,AI,B524,component,香
+https://id.analoggamemuseum.org/api/items/3309,product_name,だいすくえすと,AI,B514,name,だいすくえすと
+https://id.analoggamemuseum.org/api/items/3309,product_name,だいすくえすとすりぃ,AI,B514,name,だいすくえすとすりぃ
+https://id.analoggamemuseum.org/api/items/3309,publisher,SHINWA CORPORATION,AI,B514,publisher,shinwacorporation
+https://id.analoggamemuseum.org/api/items/3309,publisher,株式会社 新和,AI,B514,publisher,株式会社新和
+https://id.analoggamemuseum.org/api/items/3309,number_of_players,一人以上何人でも,AI,B514,numberOfPlayers,一-何でも
+https://id.analoggamemuseum.org/api/items/3309,number_of_players,一人～∞,AI,B514,numberOfPlayers,一-∞
+https://id.analoggamemuseum.org/api/items/3309,game_time,五秒～∞,AI,B514,playTime,pt∞m
+https://id.analoggamemuseum.org/api/items/3309,audience,10才以上,AI,B514,audience,10-
+https://id.analoggamemuseum.org/api/items/3309,audience,上級者向,AI,B514,audience,上級者向
+https://id.analoggamemuseum.org/api/items/3309,components,シール: 24枚,AI,B514,component,シール24枚
+https://id.analoggamemuseum.org/api/items/3309,components,ルール: 一枚,AI,B514,component,ルール一枚
+https://id.analoggamemuseum.org/api/items/3309,components,冒険者記録表: 一冊,AI,B514,component,冒険者記録表一冊
+https://id.analoggamemuseum.org/api/items/3309,components,特殊サイコロ: 4ヶ,AI,B514,component,特殊サイコロ4ヶ
+https://id.analoggamemuseum.org/api/items/3309,components,迷宮記録表: 一冊,AI,B514,component,迷宮記録表一冊
+https://id.analoggamemuseum.org/api/items/3309,contact_point,03-3861-8983,AI,B514,contactPoint,03-3861-8983
+https://id.analoggamemuseum.org/api/items/3309,contact_point,TEL 03-3861-8983,AI,B514,contactPoint,tel03-3861-8983
+https://id.analoggamemuseum.org/api/items/1034,product_name,焼肉よりもお寿司がすき,AI,B5,name,焼肉よりもお寿司がすき
+https://id.analoggamemuseum.org/api/items/1034,product_name,焼肉よりもお寿司がすき？,AI,B5,name,焼肉よりもお寿司がすき？
+https://id.analoggamemuseum.org/api/items/1034,components,お題カード 20枚,AI,B5,component,お題カード20枚
+https://id.analoggamemuseum.org/api/items/1034,components,創作お題 カード 5枚,AI,B5,component,創作お題カード5枚
+https://id.analoggamemuseum.org/api/items/1034,publisher,あそばなな,AI,B5,publisher,あそばなな
+https://id.analoggamemuseum.org/api/items/1034,number_of_players,2~10人,AI,B5,numberOfPlayers,2-10
+https://id.analoggamemuseum.org/api/items/1034,game_time,10分~,AI,B5,playTime,pt10m–inf
+https://id.analoggamemuseum.org/api/items/1034,audience,8才~,AI,B5,audience,8~
+https://id.analoggamemuseum.org/api/items/1034,audience,8才～,AI,B5,audience,8-
+https://id.analoggamemuseum.org/api/items/1034,responsibility_statement,Editor: Kasane,AI,B5,responsibilityStatement,editor:kasane
+https://id.analoggamemuseum.org/api/items/1034,responsibility_statement,Game Designer: Koki,AI,B5,responsibilityStatement,gamedesigner:koki
+https://id.analoggamemuseum.org/api/items/1034,responsibility_statement,"Illustrator, Card Designer: Rei",AI,B5,responsibilityStatement,"illustrator,carddesigner:rei"
+https://id.analoggamemuseum.org/api/items/3297,product_name,MEMENTO,AI,B501,name,memento
+https://id.analoggamemuseum.org/api/items/3297,audience,10才以上,AI,B501,audience,10-
+https://id.analoggamemuseum.org/api/items/3297,audience,Jung und Alt,AI,B501,audience,jungundalt
+https://id.analoggamemuseum.org/api/items/3297,audience,ab 10,AI,B501,audience,ab10
+https://id.analoggamemuseum.org/api/items/3297,number_of_players,2-5,AI,B501,numberOfPlayers,2-5
+https://id.analoggamemuseum.org/api/items/3297,game_time,30 Min.,AI,B501,playTime,pt30m
+https://id.analoggamemuseum.org/api/items/3297,publisher,KOSMOS,AI,B501,publisher,kosmos
+https://id.analoggamemuseum.org/api/items/3297,publisher,KOSMOS Verlag,AI,B501,publisher,kosmosverlag
+https://id.analoggamemuseum.org/api/items/3297,barcode,4002051740313,AI,B501,barcode,4002051740313
+https://id.analoggamemuseum.org/api/items/3297,identifier,Art.-Nr.: 740313,AI,B501,identifier,art.-nr.:740313
+https://id.analoggamemuseum.org/api/items/3297,components,1 Spielanleitung,AI,B501,component,1spielanleitung
+https://id.analoggamemuseum.org/api/items/3297,components,18 Wertungskarten,AI,B501,component,18wertungskarten
+https://id.analoggamemuseum.org/api/items/3297,components,64 Spielkarten,AI,B501,component,64spielkarten
+https://id.analoggamemuseum.org/api/items/3297,components,8 Ordnungskarten,AI,B501,component,8ordnungskarten
+https://id.analoggamemuseum.org/api/items/3297,datePulished,2013,AI,B501,datePublished,2013
+https://id.analoggamemuseum.org/api/items/3297,contact_point,Fax: +49 711 2191-199,AI,B501,contactPoint,fax:+497112191-199
+https://id.analoggamemuseum.org/api/items/3297,contact_point,Tel.: +49 711 2191-0,AI,B501,contactPoint,tel.:+497112191-0
+https://id.analoggamemuseum.org/api/items/3297,contact_point,info@kosmos.de,AI,B501,contactPoint,info@kosmos.de
+https://id.analoggamemuseum.org/api/items/3297,contact_point,kosmos.de,AI,B501,contactPoint,kosmos.de
+https://id.analoggamemuseum.org/api/items/3290,product_name,動画アップしてみたwww,AI,B494,name,動画アップしてみたwww
+https://id.analoggamemuseum.org/api/items/3290,number_of_players,3~8人,AI,B494,numberOfPlayers,3-8
+https://id.analoggamemuseum.org/api/items/3290,game_time,約10分,AI,B494,playTime,pt10m
+https://id.analoggamemuseum.org/api/items/3290,audience,8歳以上,AI,B494,audience,8-
+https://id.analoggamemuseum.org/api/items/3290,components,タイトルカード 200枚,AI,B494,component,タイトルカード200枚
+https://id.analoggamemuseum.org/api/items/3290,components,ポイントカード 40枚,AI,B494,component,ポイントカード40枚
+https://id.analoggamemuseum.org/api/items/1929,product_name,Make Up,AI,B484,name,makeup
+https://id.analoggamemuseum.org/api/items/1929,product_name,Make Up!,AI,B484,name,makeup!
+https://id.analoggamemuseum.org/api/items/1929,components,お題カード 26枚,AI,B484,component,お題カード26枚
+https://id.analoggamemuseum.org/api/items/1929,components,グーグラー 1枚,AI,B484,component,グーグラー1枚
+https://id.analoggamemuseum.org/api/items/1929,components,ボースター 6枚,AI,B484,component,ボースター6枚
+https://id.analoggamemuseum.org/api/items/1929,components,リスナー 1枚,AI,B484,component,リスナー1枚
+https://id.analoggamemuseum.org/api/items/1929,components,役割カード 8枚,AI,B484,component,役割カード8枚
+https://id.analoggamemuseum.org/api/items/1929,number_of_players,3~8人,AI,B484,numberOfPlayers,3-8
+https://id.analoggamemuseum.org/api/items/1929,game_time,20~30分,AI,B484,playTime,pt20m–pt30m
+https://id.analoggamemuseum.org/api/items/1929,audience,12歳以上,AI,B484,audience,12-
+https://id.analoggamemuseum.org/api/items/1929,datePulished,2021,AI,B484,datePublished,2021
+https://id.analoggamemuseum.org/api/items/1929,publisher,GGGames,AI,B484,publisher,gggames
+https://id.analoggamemuseum.org/api/items/3294,product_name,NOBUNAGA,AI,B498,name,nobunaga
+https://id.analoggamemuseum.org/api/items/3294,product_name,ノブナガ,AI,B498,name,ノブナガ
+https://id.analoggamemuseum.org/api/items/3294,identifier,GP29C,AI,B498,identifier,gp29c
+https://id.analoggamemuseum.org/api/items/3294,publisher,GRIMPEUR,AI,B498,publisher,grimpeur
+https://id.analoggamemuseum.org/api/items/3294,publisher,"GRIMPEUR, Inc.",AI,B498,publisher,"grimpeur,inc."
+https://id.analoggamemuseum.org/api/items/3294,publisher,株式会社グランペール,AI,B498,publisher,株式会社グランペール
+https://id.analoggamemuseum.org/api/items/3294,number_of_players,2-5,AI,B498,numberOfPlayers,2-5
+https://id.analoggamemuseum.org/api/items/3294,audience,12+,AI,B498,audience,12-
+https://id.analoggamemuseum.org/api/items/3294,game_time,20min,AI,B498,playTime,pt20m
+https://id.analoggamemuseum.org/api/items/3294,contact_point,http://grimpeur.co.jp/,AI,B498,contactPoint,grimpeur.co.jp
+https://id.analoggamemuseum.org/api/items/3294,contact_point,info@grimpeur.co.jp,AI,B498,contactPoint,info@grimpeur.co.jp
+https://id.analoggamemuseum.org/api/items/3294,datePulished,2010,AI,B498,datePublished,2010
+https://id.analoggamemuseum.org/api/items/3294,responsibility_statement,イラスト : 相沢美良,AI,B498,responsibilityStatement,イラスト:相沢美良
+https://id.analoggamemuseum.org/api/items/3294,responsibility_statement,ゲームデザイン : 沙月みと,AI,B498,responsibilityStatement,ゲームデザイン:沙月みと
+https://id.analoggamemuseum.org/api/items/3294,barcode,4560288170292,AI,B498,barcode,4560288170292
+https://id.analoggamemuseum.org/api/items/1925,game_time,30min,AI,B478,playTime,pt30m
+https://id.analoggamemuseum.org/api/items/1925,number_of_players,3人,AI,B478,numberOfPlayers,3
+https://id.analoggamemuseum.org/api/items/1925,product_name,JI.TI - ウルティア -,AI,B478,name,ji.ti-ウルティア-
+https://id.analoggamemuseum.org/api/items/1752,product_name,IZAYOI,AI,B48,name,izayoi
+https://id.analoggamemuseum.org/api/items/1752,product_name,十六夜,AI,B48,name,十六夜
+https://id.analoggamemuseum.org/api/items/1752,product_name,十六夜小町,AI,B48,name,十六夜小町
+https://id.analoggamemuseum.org/api/items/1752,components,プレイボード 1枚,AI,B48,component,プレイボード1枚
+https://id.analoggamemuseum.org/api/items/1752,components,プレイボード・1枚,AI,B48,component,プレイボード・1枚
+https://id.analoggamemuseum.org/api/items/1752,components,プレイヤーカード 5枚,AI,B48,component,プレイヤーカード5枚
+https://id.analoggamemuseum.org/api/items/1752,components,プレイヤーカード・5枚,AI,B48,component,プレイヤーカード・5枚
+https://id.analoggamemuseum.org/api/items/1752,components,和小物タイル 16枚,AI,B48,component,和小物タイル16枚
+https://id.analoggamemuseum.org/api/items/1752,components,和小物タイル・16枚,AI,B48,component,和小物タイル・16枚
+https://id.analoggamemuseum.org/api/items/1752,components,師匠カード 5枚,AI,B48,component,師匠カード5枚
+https://id.analoggamemuseum.org/api/items/1752,components,師匠カード・5枚,AI,B48,component,師匠カード・5枚
+https://id.analoggamemuseum.org/api/items/1752,components,推薦カード 47枚,AI,B48,component,推薦カード47枚
+https://id.analoggamemuseum.org/api/items/1752,components,推薦カード・47枚,AI,B48,component,推薦カード・47枚
+https://id.analoggamemuseum.org/api/items/1752,components,特殊カード 10枚,AI,B48,component,特殊カード10枚
+https://id.analoggamemuseum.org/api/items/1752,components,特殊カード・10枚,AI,B48,component,特殊カード・10枚
+https://id.analoggamemuseum.org/api/items/1752,components,説明書 1部,AI,B48,component,説明書1部
+https://id.analoggamemuseum.org/api/items/1752,components,説明書・1部,AI,B48,component,説明書・1部
+https://id.analoggamemuseum.org/api/items/1752,number_of_players,3-5人,AI,B48,numberOfPlayers,3-5
+https://id.analoggamemuseum.org/api/items/1752,audience,7+,AI,B48,audience,7-
+https://id.analoggamemuseum.org/api/items/1752,game_time,15分,AI,B48,playTime,pt15m
+https://id.analoggamemuseum.org/api/items/1752,datePulished,2020,AI,B48,datePublished,2020
+https://id.analoggamemuseum.org/api/items/1752,publisher,Nanatsumu,AI,B48,publisher,nanatsumu
+https://id.analoggamemuseum.org/api/items/1752,publisher,ななつむ,AI,B48,publisher,ななつむ
+https://id.analoggamemuseum.org/api/items/2225,product_name,アブダク!!,AI,B480,name,アブダク!!
+https://id.analoggamemuseum.org/api/items/2225,number_of_players,2-4人,AI,B480,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/2225,audience,10+,AI,B480,audience,10-
+https://id.analoggamemuseum.org/api/items/2225,game_time,20-30分,AI,B480,playTime,pt20m–pt30m
+https://id.analoggamemuseum.org/api/items/2225,datePulished,2021,AI,B480,datePublished,2021
+https://id.analoggamemuseum.org/api/items/2225,publisher,VicVillage,AI,B480,publisher,vicvillage
+https://id.analoggamemuseum.org/api/items/2225,responsibility_statement,Art Works Higawind,AI,B480,responsibilityStatement,artworkshigawind
+https://id.analoggamemuseum.org/api/items/2225,responsibility_statement,Game Design LEO,AI,B480,responsibilityStatement,gamedesignleo
+https://id.analoggamemuseum.org/api/items/2203,product_name,NumVS,AI,B421,name,numvs
+https://id.analoggamemuseum.org/api/items/2203,product_name,ナンバース,AI,B421,name,ナンバース
+https://id.analoggamemuseum.org/api/items/2203,publisher,Ending Maker's,AI,B421,publisher,endingmaker's
+https://id.analoggamemuseum.org/api/items/2203,number_of_players,2players,AI,B421,numberOfPlayers,2
+https://id.analoggamemuseum.org/api/items/2203,audience,Age: 10+,AI,B421,audience,:10-
+https://id.analoggamemuseum.org/api/items/2203,game_time,5min,AI,B421,playTime,pt5m
+https://id.analoggamemuseum.org/api/items/2203,responsibility_statement,ゲームデザイン : I-X-A(イクサ),AI,B421,responsibilityStatement,ゲームデザイン:i-x-a
+https://id.analoggamemuseum.org/api/items/2203,responsibility_statement,サポーター : わわはち,AI,B421,responsibilityStatement,サポーター:わわはち
+https://id.analoggamemuseum.org/api/items/2203,responsibility_statement,制作:Ending Maker's,AI,B421,responsibilityStatement,制作:endingmaker's
+https://id.analoggamemuseum.org/api/items/2345,game_time,15min,AI,B410,playTime,pt15m
+https://id.analoggamemuseum.org/api/items/2345,number_of_players,3-4 Player,AI,B410,numberOfPlayers,3-4
+https://id.analoggamemuseum.org/api/items/2345,number_of_players,3から4人,AI,B410,numberOfPlayers,3から4
+https://id.analoggamemuseum.org/api/items/2345,audience,9歳以上,AI,B410,audience,9-
+https://id.analoggamemuseum.org/api/items/2345,components,6枚のカード,AI,B410,component,6枚のカード
+https://id.analoggamemuseum.org/api/items/2345,publisher,LF,AI,B410,publisher,lf
+https://id.analoggamemuseum.org/api/items/2345,publisher,LITTLE COSMIC,AI,B410,publisher,littlecosmic
+https://id.analoggamemuseum.org/api/items/2345,publisher,Little Future,AI,B410,publisher,littlefuture
+https://id.analoggamemuseum.org/api/items/2345,publisher,株式会社リトルフューチャー,AI,B410,publisher,株式会社リトルフューチャー
+https://id.analoggamemuseum.org/api/items/2345,barcode,4589963990536,AI,B410,barcode,4589963990536
+https://id.analoggamemuseum.org/api/items/2345,product_name,CREAM SODA,AI,B410,name,creamsoda
+https://id.analoggamemuseum.org/api/items/2338,product_name,ヒトイキ,AI,B412,name,ヒトイキ
+https://id.analoggamemuseum.org/api/items/2338,product_name,喫茶 ヒトイキ,AI,B412,name,喫茶ヒトイキ
+https://id.analoggamemuseum.org/api/items/2338,components,クリームソーダカード,AI,B412,component,クリームソーダカード
+https://id.analoggamemuseum.org/api/items/2338,components,ゲームカード76枚,AI,B412,component,ゲームカード76枚
+https://id.analoggamemuseum.org/api/items/2338,components,遊び方説明書2枚,AI,B412,component,遊び方説明書2枚
+https://id.analoggamemuseum.org/api/items/2338,number_of_players,2~6人用,AI,B412,numberOfPlayers,2-6
+https://id.analoggamemuseum.org/api/items/2338,game_time,約15分,AI,B412,playTime,pt15m
+https://id.analoggamemuseum.org/api/items/2338,audience,8才以上,AI,B412,audience,8-
+https://id.analoggamemuseum.org/api/items/2338,publisher,コスメボックス,AI,B412,publisher,コスメボックス
+https://id.analoggamemuseum.org/api/items/1765,product_name,エモーション エヴォリューション,AI,B40,name,エモーションエヴォリューション
+https://id.analoggamemuseum.org/api/items/1765,identifier,M095,AI,B40,identifier,m095
+https://id.analoggamemuseum.org/api/items/1765,number_of_players,2-8P,AI,B40,numberOfPlayers,2-8
+https://id.analoggamemuseum.org/api/items/1765,game_time,5min-Life,AI,B40,playTime,pt5m–inf
+https://id.analoggamemuseum.org/api/items/1765,audience,Age 8+,AI,B40,audience,8-
+https://id.analoggamemuseum.org/api/items/1765,components,63*88mm,AI,B40,component,63*88mm
+https://id.analoggamemuseum.org/api/items/1765,publisher,@info_gekitetsu,AI,B40,publisher,@info_gekitetsu
+https://id.analoggamemuseum.org/api/items/1765,publisher,EKI ETSU,AI,B40,publisher,ekietsu
+https://id.analoggamemuseum.org/api/items/1765,publisher,GEKITETSU,AI,B40,publisher,gekitetsu
+https://id.analoggamemuseum.org/api/items/1765,datePulished,2020,AI,B40,datePublished,2020
+https://id.analoggamemuseum.org/api/items/1765,responsibility_statement,Caligraphy @Adol_DQX,AI,B40,responsibilityStatement,caligraphy@adol_dqx
+https://id.analoggamemuseum.org/api/items/1765,responsibility_statement,Game design @kenzou,AI,B40,responsibilityStatement,gamedesign@kenzou
+https://id.analoggamemuseum.org/api/items/1765,responsibility_statement,Production @info_gekitetsu,AI,B40,responsibilityStatement,production@info_gekitetsu
+https://id.analoggamemuseum.org/api/items/2020,audience,6+,AI,B394,audience,6-
+https://id.analoggamemuseum.org/api/items/2020,number_of_players,3~8,AI,B394,numberOfPlayers,3-8
+https://id.analoggamemuseum.org/api/items/2020,game_time,10min,AI,B394,playTime,pt10m
+https://id.analoggamemuseum.org/api/items/2020,product_name,ハリーガール,AI,B394,name,ハリーガール
+https://id.analoggamemuseum.org/api/items/2020,product_name,ハリーガール コロロ,AI,B394,name,ハリーガールコロロ
+https://id.analoggamemuseum.org/api/items/2020,publisher,IIDA GAMES,AI,B394,publisher,iidagames
+https://id.analoggamemuseum.org/api/items/1023,product_name,ゴモクタイル,AI,B4,name,ゴモクタイル
+https://id.analoggamemuseum.org/api/items/2215,product_name,トリテなんてない,AI,B390,name,トリテなんてない
+https://id.analoggamemuseum.org/api/items/2215,product_name,トリテなんでない,AI,B390,name,トリテなんでない
+https://id.analoggamemuseum.org/api/items/2215,product_name,気に入らないトリテ もう僕は知らない なんて,AI,B390,name,気に入らないトリテもう僕は知らないなんて
+https://id.analoggamemuseum.org/api/items/2215,game_time,20-30分,AI,B390,playTime,pt20m–pt30m
+https://id.analoggamemuseum.org/api/items/2215,number_of_players,3-6人,AI,B390,numberOfPlayers,3-6
+https://id.analoggamemuseum.org/api/items/2215,audience,12歳以上,AI,B390,audience,12-
+https://id.analoggamemuseum.org/api/items/2215,identifier,0688,AI,B390,identifier,0688
+https://id.analoggamemuseum.org/api/items/2215,contact_point,こちら→→→→,AI,B390,contactPoint,こちら→→→→
+https://id.analoggamemuseum.org/api/items/2215,contact_point,最新の説明書はこちら,AI,B390,contactPoint,最新の説明書はこちら
+https://id.analoggamemuseum.org/api/items/1058,product_name,Organic President,AI,B38,name,organicpresident
+https://id.analoggamemuseum.org/api/items/1058,product_name,有機大富豪,AI,B38,name,有機大富豪
+https://id.analoggamemuseum.org/api/items/1058,components,H2SO4,AI,B38,component,h2so4
+https://id.analoggamemuseum.org/api/items/1058,components,TNT,AI,B38,component,tnt
+https://id.analoggamemuseum.org/api/items/1058,components,ピクリン酸,AI,B38,component,ピクリン酸
+https://id.analoggamemuseum.org/api/items/1058,components,反応カード,AI,B38,component,反応カード
+https://id.analoggamemuseum.org/api/items/1058,components,硫酸,AI,B38,component,硫酸
+https://id.analoggamemuseum.org/api/items/1058,components,酸化剤,AI,B38,component,酸化剤
+https://id.analoggamemuseum.org/api/items/1058,identifier,E1-PL,AI,B38,identifier,e1-pl
+https://id.analoggamemuseum.org/api/items/1058,contact_point,HPにアクセス!,AI,B38,contactPoint,hpにアクセス!
+https://id.analoggamemuseum.org/api/items/1059,product_name,DRESS LIFE,AI,B37,name,dresslife
+https://id.analoggamemuseum.org/api/items/1059,product_name,ドレスライフ,AI,B37,name,ドレスライフ
+https://id.analoggamemuseum.org/api/items/1059,version,Sweet Version,AI,B37,version,sweetversion
+https://id.analoggamemuseum.org/api/items/1059,version,スイートバージョン,AI,B37,version,スイートバージョン
+https://id.analoggamemuseum.org/api/items/1059,components,12種類の『ドレス』,AI,B37,component,12種類の『ドレス』
+https://id.analoggamemuseum.org/api/items/1059,responsibility_statement,Game Design Maru.,AI,B37,responsibilityStatement,gamedesignmaru.
+https://id.analoggamemuseum.org/api/items/1059,responsibility_statement,Game Illustration Aoi Tsukinari,AI,B37,responsibilityStatement,gameillustrationaoitsukinari
+https://id.analoggamemuseum.org/api/items/1940,number_of_players,3~5人,AI,B369,numberOfPlayers,3-5
+https://id.analoggamemuseum.org/api/items/1940,game_time,30~60分,AI,B369,playTime,pt30m–pt60m
+https://id.analoggamemuseum.org/api/items/1940,audience,12歳,AI,B369,audience,12
+https://id.analoggamemuseum.org/api/items/1940,audience,12歳以上,AI,B369,audience,12-
+https://id.analoggamemuseum.org/api/items/1940,components,アルファベットカード:5枚,AI,B369,component,アルファベットカード5枚
+https://id.analoggamemuseum.org/api/items/1940,components,サイコロ1個,AI,B369,component,サイコロ1個
+https://id.analoggamemuseum.org/api/items/1940,components,メモ用紙,AI,B369,component,メモ用紙
+https://id.analoggamemuseum.org/api/items/1940,components,筆記具,AI,B369,component,筆記具
+https://id.analoggamemuseum.org/api/items/1940,components,答えカード:50枚,AI,B369,component,答えカード50枚
+https://id.analoggamemuseum.org/api/items/1940,components,遊び方説明書:1冊,AI,B369,component,遊び方説明書1冊
+https://id.analoggamemuseum.org/api/items/1940,datePulished,2021,AI,B369,datePublished,2021
+https://id.analoggamemuseum.org/api/items/1940,publisher,CM The Garden Games,AI,B369,publisher,cmthegardengames
+https://id.analoggamemuseum.org/api/items/1940,publisher,The Garden,AI,B369,publisher,thegarden
+https://id.analoggamemuseum.org/api/items/1940,publisher,The Garden Games,AI,B369,publisher,thegardengames
+https://id.analoggamemuseum.org/api/items/1940,publisher,ガーデンゲームズ,AI,B369,publisher,ガーデンゲームズ
+https://id.analoggamemuseum.org/api/items/1940,contact_point,http://gardengames.blog40.fc2.com/,AI,B369,contactPoint,gardengames.blog40.fc2.com
+https://id.analoggamemuseum.org/api/items/1940,product_name,クイズ五七五,AI,B369,name,クイズ五七五
+https://id.analoggamemuseum.org/api/items/1940,responsibility_statement,ゲームデザイン:樫尾忠英,AI,B369,responsibilityStatement,ゲームデザイン:樫尾忠英
+https://id.analoggamemuseum.org/api/items/1940,responsibility_statement,ボックスアート:ナカタヒサ(久遠堂),AI,B369,responsibilityStatement,ボックスアート:ナカタヒサ
+https://id.analoggamemuseum.org/api/items/1941,components,筋肉カード,AI,B371,component,筋肉カード
+https://id.analoggamemuseum.org/api/items/1941,game_time,20~30分,AI,B371,playTime,pt20m–pt30m
+https://id.analoggamemuseum.org/api/items/1941,number_of_players,3~6人,AI,B371,numberOfPlayers,3-6
+https://id.analoggamemuseum.org/api/items/1941,audience,10才~,AI,B371,audience,10~
+https://id.analoggamemuseum.org/api/items/1941,publisher,無限インフィニティ∞,AI,B371,publisher,無限インフィニティ∞
+https://id.analoggamemuseum.org/api/items/1941,contact_point,@mugein_8,AI,B371,contactPoint,@mugein_8
+https://id.analoggamemuseum.org/api/items/1941,product_name,筋肉神経衰弱,AI,B371,name,筋肉神経衰弱
+https://id.analoggamemuseum.org/api/items/1932,publisher,BEVERLY,AI,B365,publisher,beverly
+https://id.analoggamemuseum.org/api/items/1932,publisher,ILLUMINATION,AI,B365,publisher,illumination
+https://id.analoggamemuseum.org/api/items/1932,publisher,Universal City Studios LLC,AI,B365,publisher,universalcitystudiosllc
+https://id.analoggamemuseum.org/api/items/1932,publisher,ビバリー,AI,B365,publisher,ビバリー
+https://id.analoggamemuseum.org/api/items/1932,publisher,株式会社ビバリー,AI,B365,publisher,株式会社ビバリー
+https://id.analoggamemuseum.org/api/items/1932,audience,7+,AI,B365,audience,7-
+https://id.analoggamemuseum.org/api/items/1932,product_name,MINIONS,AI,B365,name,minions
+https://id.analoggamemuseum.org/api/items/1932,product_name,花札,AI,B365,name,花札
+https://id.analoggamemuseum.org/api/items/1932,product_name,花札ミニオンズ,AI,B365,name,花札ミニオンズ
+https://id.analoggamemuseum.org/api/items/1932,components,札...48枚,AI,B365,component,札48枚
+https://id.analoggamemuseum.org/api/items/1932,components,解説書,AI,B365,component,解説書
+https://id.analoggamemuseum.org/api/items/1932,number_of_players,2~4人,AI,B365,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/1932,identifier,TRA-074,AI,B365,identifier,tra-074
+https://id.analoggamemuseum.org/api/items/1932,contact_point,0120-357-210,AI,B365,contactPoint,0120-357-210
+https://id.analoggamemuseum.org/api/items/1932,contact_point,http://www.be-en.co.jp,AI,B365,contactPoint,www.be-en.co.jp
+https://id.analoggamemuseum.org/api/items/1932,contact_point,〒104-0061 東京都中央区銀座8-10-6,AI,B365,contactPoint,〒104-0061東京都中央区銀座8-10-6
+https://id.analoggamemuseum.org/api/items/1932,barcode,4977524487883,AI,B365,barcode,4977524487883
+https://id.analoggamemuseum.org/api/items/1063,product_name,Haft,AI,B35,name,haft
+https://id.analoggamemuseum.org/api/items/1063,product_name,ドロンビー,AI,B35,name,ドロンビー
+https://id.analoggamemuseum.org/api/items/1063,product_name,怒龍蛇,AI,B35,name,怒龍蛇
+https://id.analoggamemuseum.org/api/items/1063,components,44×63mm 84枚,AI,B35,component,44×63mm84枚
+https://id.analoggamemuseum.org/api/items/1063,components,カード - 44×63mm 84枚,AI,B35,component,カード-44×63mm84枚
+https://id.analoggamemuseum.org/api/items/1063,components,カード - 63×88mm 19枚,AI,B35,component,カード-63×88mm19枚
+https://id.analoggamemuseum.org/api/items/1063,components,木製キューブ 12個,AI,B35,component,木製キューブ12個
+https://id.analoggamemuseum.org/api/items/1063,publisher,ハレルヤロックボーイ,AI,B35,publisher,ハレルヤロックボーイ
+https://id.analoggamemuseum.org/api/items/1063,barcode,4573337021049,AI,B35,barcode,4573337021049
+https://id.analoggamemuseum.org/api/items/1060,product_name,Trick and Trade,AI,B36,name,trickandtrade
+https://id.analoggamemuseum.org/api/items/1060,product_name,トリックアンドトレード,AI,B36,name,トリックアンドトレード
+https://id.analoggamemuseum.org/api/items/1060,game_time,30分,AI,B36,playTime,pt30m
+https://id.analoggamemuseum.org/api/items/1060,number_of_players,3-5人,AI,B36,numberOfPlayers,3-5
+https://id.analoggamemuseum.org/api/items/1060,audience,10歳以上,AI,B36,audience,10-
+https://id.analoggamemuseum.org/api/items/1060,components,トリックカード: 40枚 (58mm×89mm),AI,B36,component,トリックカード40枚(58mm×89mm)
+https://id.analoggamemuseum.org/api/items/1060,components,トレードカード: 42枚 (44mm×63mm),AI,B36,component,トレードカード42枚(44mm×63mm)
+https://id.analoggamemuseum.org/api/items/1060,components,リードプレイヤーカード: 1枚 (44mm×63mm),AI,B36,component,リードプレイヤーカード1枚(44mm×63mm)
+https://id.analoggamemuseum.org/api/items/1060,components,説明書,AI,B36,component,説明書
+https://id.analoggamemuseum.org/api/items/1060,datePublished,2022,AI,B36,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1060,publisher,merry-andrew-works,AI,B36,publisher,merry-andrew-works
+https://id.analoggamemuseum.org/api/items/1060,publisher,メリーアンドリューワークス,AI,B36,publisher,メリーアンドリューワークス
+https://id.analoggamemuseum.org/api/items/2015,product_name,肉王,AI,B343,name,肉王
+https://id.analoggamemuseum.org/api/items/2015,publisher,P.GAMES,AI,B343,publisher,p.games
+https://id.analoggamemuseum.org/api/items/2015,components,カルビ(生),AI,B343,component,カルビ(生)
+https://id.analoggamemuseum.org/api/items/2015,components,タン(生),AI,B343,component,タン(生)
+https://id.analoggamemuseum.org/api/items/2015,components,テッチャン(生),AI,B343,component,テッチャン(生)
+https://id.analoggamemuseum.org/api/items/1062,product_name,めいたんていかぞく,AI,B34,name,めいたんていかぞく
+https://id.analoggamemuseum.org/api/items/1062,product_name,名探偵家族,AI,B34,name,名探偵家族
+https://id.analoggamemuseum.org/api/items/1062,components,いちらんひょう…4まい,AI,B34,component,いちらんひょう…4まい
+https://id.analoggamemuseum.org/api/items/1062,components,いちらんひょう・・・4まい,AI,B34,component,いちらんひょう・・・4まい
+https://id.analoggamemuseum.org/api/items/1062,components,じゅんばんぎめカード…6まい,AI,B34,component,じゅんばんぎめカード…6まい
+https://id.analoggamemuseum.org/api/items/1062,components,じゅんばんぎめカード・・・ 6まい,AI,B34,component,じゅんばんぎめカード・・・6まい
+https://id.analoggamemuseum.org/api/items/1062,components,せつめいしょ... 1まい,AI,B34,component,せつめいしょ1まい
+https://id.analoggamemuseum.org/api/items/1062,components,アリバイカード…32まい,AI,B34,component,アリバイカード…32まい
+https://id.analoggamemuseum.org/api/items/1062,components,アリバイカード・・・32まい,AI,B34,component,アリバイカード・・・32まい
+https://id.analoggamemuseum.org/api/items/1062,components,キャラクターカード…17まい,AI,B34,component,キャラクターカード…17まい
+https://id.analoggamemuseum.org/api/items/1062,components,キャラクターカード・・・ 17まい,AI,B34,component,キャラクターカード・・・17まい
+https://id.analoggamemuseum.org/api/items/1062,publisher,MADAMADA ★SavaN,AI,B34,publisher,madamada★savan
+https://id.analoggamemuseum.org/api/items/1062,contact_point,https://twitter.com/MADAMADA_SavaN,AI,B34,contactPoint,twitter.com/madamada_savan
+https://id.analoggamemuseum.org/api/items/1062,contact_point,〒165-0026 東京都中野区新井3-33-17 リバーサイド沼袋103,AI,B34,contactPoint,〒165-0026東京都中野区新井3-33-17リバーサイド沼袋103
+https://id.analoggamemuseum.org/api/items/1062,game_time,~30ふん,AI,B34,playTime,pt30m–inf
+https://id.analoggamemuseum.org/api/items/1062,number_of_players,2~6にん,AI,B34,numberOfPlayers,2-6
+https://id.analoggamemuseum.org/api/items/1062,audience,5さい〜,AI,B34,audience,5-
+https://id.analoggamemuseum.org/api/items/1062,datePulished,2022,AI,B34,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1068,product_name,南極サバイベーる,AI,B33,name,南極サバイベーる
+https://id.analoggamemuseum.org/api/items/1068,product_name,南極状態,AI,B33,name,南極状態
+https://id.analoggamemuseum.org/api/items/1068,product_name,南極関係モツ鍋!?サバイバーズ,AI,B33,name,南極関係モツ鍋!?サバイバーズ
+https://id.analoggamemuseum.org/api/items/1068,number_of_players,2-6人,AI,B33,numberOfPlayers,2-6
+https://id.analoggamemuseum.org/api/items/1068,game_time,30分,AI,B33,playTime,pt30m
+https://id.analoggamemuseum.org/api/items/1068,audience,10歳以上,AI,B33,audience,10-
+https://id.analoggamemuseum.org/api/items/1068,components,調査船の鍵,AI,B33,component,調査船の鍵
+https://id.analoggamemuseum.org/api/items/1068,responsibility_statement,イラスト・グラフィックデザイン:陽貴,AI,B33,responsibilityStatement,イラストグラフィックデザイン:陽貴
+https://id.analoggamemuseum.org/api/items/1068,responsibility_statement,ゲームデザイン:諏訪炭三,AI,B33,responsibilityStatement,ゲームデザイン:諏訪炭三
+https://id.analoggamemuseum.org/api/items/1068,responsibility_statement,編集:中黒トシヤ、西田良幸、しゃりん,AI,B33,responsibilityStatement,"編集:中黒トシヤ,西田良幸,しゃりん"
+https://id.analoggamemuseum.org/api/items/1995,product_name,MEMETHRE SAN,AI,B349,name,memethresan
+https://id.analoggamemuseum.org/api/items/1995,product_name,桃太郎丸,AI,B349,name,桃太郎丸
+https://id.analoggamemuseum.org/api/items/1995,components,カード:101枚,AI,B349,component,カード101枚
+https://id.analoggamemuseum.org/api/items/1995,components,説明書:1枚,AI,B349,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1995,publisher,KOKEKKO DAN,AI,B349,publisher,kokekkodan
+https://id.analoggamemuseum.org/api/items/1995,publisher,MEMETHRE SAN,AI,B349,publisher,memethresan
+https://id.analoggamemuseum.org/api/items/1995,publisher,コケッコ団,AI,B349,publisher,コケッコ団
+https://id.analoggamemuseum.org/api/items/1995,datePulished,2021,AI,B349,datePublished,2021
+https://id.analoggamemuseum.org/api/items/1995,contact_point,https://www.youtube.com/channel/UCygC5SXvydYLiMpjHxFo8Cg,AI,B349,contactPoint,www.youtube.com/channel/ucygc5sxvydylimpjhxfo8cg
+https://id.analoggamemuseum.org/api/items/1995,number_of_players,3-5人,AI,B349,numberOfPlayers,3-5
+https://id.analoggamemuseum.org/api/items/1995,game_time,10-15分,AI,B349,playTime,pt10m–pt15m
+https://id.analoggamemuseum.org/api/items/1995,audience,10歳以上,AI,B349,audience,10-
+https://id.analoggamemuseum.org/api/items/1995,responsibility_statement,ゲームデザイン/イラスト 三木田 晋,AI,B349,responsibilityStatement,ゲームデザインイラスト三木田晋
+https://id.analoggamemuseum.org/api/items/1995,responsibility_statement,パッケージデザイン 長谷川文香,AI,B349,responsibilityStatement,パッケージデザイン長谷川文香
+https://id.analoggamemuseum.org/api/items/1946,product_name,それでも推しを愛してる,AI,B325,name,それでも推しを愛してる
+https://id.analoggamemuseum.org/api/items/1946,identifier,225,AI,B325,identifier,225
+https://id.analoggamemuseum.org/api/items/1946,game_time,15~30分,AI,B325,playTime,pt15m–pt30m
+https://id.analoggamemuseum.org/api/items/1946,number_of_players,3~5人,AI,B325,numberOfPlayers,3-5
+https://id.analoggamemuseum.org/api/items/1946,audience,12歳以上,AI,B325,audience,12-
+https://id.analoggamemuseum.org/api/items/2192,product_name,AjisAi,AI,B322,name,ajisai
+https://id.analoggamemuseum.org/api/items/2192,product_name,ナナイロ アジサイ,AI,B322,name,ナナイロアジサイ
+https://id.analoggamemuseum.org/api/items/2192,components,プレイシート 1枚,AI,B322,component,プレイシート1枚
+https://id.analoggamemuseum.org/api/items/2192,components,プレイヤーカード 6枚,AI,B322,component,プレイヤーカード6枚
+https://id.analoggamemuseum.org/api/items/2192,components,花コマ 98個,AI,B322,component,花コマ98個
+https://id.analoggamemuseum.org/api/items/2192,components,花コマ 98個(14個x7色),AI,B322,component,花コマ98個(14個x7色)
+https://id.analoggamemuseum.org/api/items/2192,components,説明書 1部,AI,B322,component,説明書1部
+https://id.analoggamemuseum.org/api/items/2192,number_of_players,2-3人,AI,B322,numberOfPlayers,2-3
+https://id.analoggamemuseum.org/api/items/2192,audience,7歳以上,AI,B322,audience,7-
+https://id.analoggamemuseum.org/api/items/2192,game_time,15分,AI,B322,playTime,pt15m
+https://id.analoggamemuseum.org/api/items/2192,datePulished,2021,AI,B322,datePublished,2021
+https://id.analoggamemuseum.org/api/items/2192,publisher,Nanatsumu,AI,B322,publisher,nanatsumu
+https://id.analoggamemuseum.org/api/items/2222,publisher,"コミュニケーション工房
+ツナグヒラク",AI,B312,publisher,コミュニケーション工房ツナグヒラク
+https://id.analoggamemuseum.org/api/items/2222,contact_point,https://www.tsunahira.com/,AI,B312,contactPoint,www.tsunahira.com
+https://id.analoggamemuseum.org/api/items/2222,product_name,アフレコ,AI,B312,name,アフレコ
+https://id.analoggamemuseum.org/api/items/2222,components,アイテムカード 10枚,AI,B312,component,アイテムカード10枚
+https://id.analoggamemuseum.org/api/items/2222,components,アクションカード 44枚,AI,B312,component,アクションカード44枚
+https://id.analoggamemuseum.org/api/items/2222,components,ナレーションカード 10枚,AI,B312,component,ナレーションカード10枚
+https://id.analoggamemuseum.org/api/items/2222,components,名札チップ 10枚,AI,B312,component,名札チップ10枚
+https://id.analoggamemuseum.org/api/items/2222,components,説明書 1枚,AI,B312,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/2222,number_of_players,2~8人くらい,AI,B312,numberOfPlayers,2-8
+https://id.analoggamemuseum.org/api/items/2222,game_time,約20分くらい,AI,B312,playTime,pt20m
+https://id.analoggamemuseum.org/api/items/2222,audience,8歳くらい〜,AI,B312,audience,8くら-
+https://id.analoggamemuseum.org/api/items/2222,responsibility_statement,企画・制作,AI,B312,responsibilityStatement,企画制作
+https://id.analoggamemuseum.org/api/items/1066,number_of_players,2人,AI,B31,numberOfPlayers,2
+https://id.analoggamemuseum.org/api/items/1066,product_name,FYOMINOKLINIA,AI,B31,name,fyominoklinia
+https://id.analoggamemuseum.org/api/items/1066,product_name,巨門星,AI,B31,name,巨門星
+https://id.analoggamemuseum.org/api/items/1064,product_name,WANYAMA,AI,B32,name,wanyama
+https://id.analoggamemuseum.org/api/items/1064,components,コマ 4個,AI,B32,component,コマ4個
+https://id.analoggamemuseum.org/api/items/1064,components,一覧カード 4枚,AI,B32,component,一覧カード4枚
+https://id.analoggamemuseum.org/api/items/1064,components,動物カード 40枚 (8種類×5枚),AI,B32,component,動物カード40枚(8種類×5枚)
+https://id.analoggamemuseum.org/api/items/1064,components,得点表カード 7枚,AI,B32,component,得点表カード7枚
+https://id.analoggamemuseum.org/api/items/1064,components,説明書 2枚,AI,B32,component,説明書2枚
+https://id.analoggamemuseum.org/api/items/1064,components,順番カード 4枚,AI,B32,component,順番カード4枚
+https://id.analoggamemuseum.org/api/items/1064,contact_point,@RMBC2021,AI,B32,contactPoint,@rmbc2021
+https://id.analoggamemuseum.org/api/items/1064,game_time,10~20分,AI,B32,playTime,pt10m–pt20m
+https://id.analoggamemuseum.org/api/items/1064,number_of_players,2~4人,AI,B32,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/1064,audience,10歳以上,AI,B32,audience,10-
+https://id.analoggamemuseum.org/api/items/1076,components,カード40枚,AI,B30,component,カード40枚
+https://id.analoggamemuseum.org/api/items/1076,components,カード40枚(63×88mm),AI,B30,component,カード40枚(63×88mm)
+https://id.analoggamemuseum.org/api/items/1076,components,説明書1部,AI,B30,component,説明書1部
+https://id.analoggamemuseum.org/api/items/1076,publisher,GAMENOWA,AI,B30,publisher,gamenowa
+https://id.analoggamemuseum.org/api/items/1076,publisher,GAMENOWN,AI,B30,publisher,gamenown
+https://id.analoggamemuseum.org/api/items/1076,publisher,ゲームNOWA,AI,B30,publisher,ゲームnowa
+https://id.analoggamemuseum.org/api/items/1076,number_of_players,2-4人,AI,B30,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/1076,audience,8歳以上,AI,B30,audience,8-
+https://id.analoggamemuseum.org/api/items/1076,game_time,20~30分,AI,B30,playTime,pt20m–pt30m
+https://id.analoggamemuseum.org/api/items/1076,contact_point,https://gameno-wa.seesaa.net/,AI,B30,contactPoint,gameno-wa.seesaa.net
+https://id.analoggamemuseum.org/api/items/1076,barcode,4582547200106,AI,B30,barcode,4582547200106
+https://id.analoggamemuseum.org/api/items/1076,product_name,プリスクール,AI,B30,name,プリスクール
+https://id.analoggamemuseum.org/api/items/1076,responsibility_statement,アートワーク / 別府さい,AI,B30,responsibilityStatement,アートワーク別府さい
+https://id.analoggamemuseum.org/api/items/1076,responsibility_statement,アートワーク:別府さい,AI,B30,responsibilityStatement,アートワーク:別府さい
+https://id.analoggamemuseum.org/api/items/1076,responsibility_statement,ゲームデザイン / かぶきけんいち,AI,B30,responsibilityStatement,ゲームデザインかぶきけんいち
+https://id.analoggamemuseum.org/api/items/1076,responsibility_statement,ゲームデザイン:かぶきけんいち,AI,B30,responsibilityStatement,ゲームデザイン:かぶきけんいち
+https://id.analoggamemuseum.org/api/items/1076,responsibility_statement,出版元:ゲームNOWA,AI,B30,responsibilityStatement,出版元:ゲームnowa
+https://id.analoggamemuseum.org/api/items/1022,components,数字カード,AI,B3,component,数字カード
+https://id.analoggamemuseum.org/api/items/1022,publisher,ボードゲーム製作サークル彩友園,AI,B3,publisher,ボードゲーム製作サークル彩友園
+https://id.analoggamemuseum.org/api/items/1022,publisher,彩友園,AI,B3,publisher,彩友園
+https://id.analoggamemuseum.org/api/items/1022,contact_point,@allotment31,AI,B3,contactPoint,@allotment31
+https://id.analoggamemuseum.org/api/items/1022,contact_point,@enn_virtual,AI,B3,contactPoint,@enn_virtual
+https://id.analoggamemuseum.org/api/items/1022,contact_point,@saiyuen_games,AI,B3,contactPoint,@saiyuen_games
+https://id.analoggamemuseum.org/api/items/1022,product_name,DECTET,AI,B3,name,dectet
+https://id.analoggamemuseum.org/api/items/1022,responsibility_statement,イラスト: 別府さい @allotment31,AI,B3,responsibilityStatement,イラスト:別府さい@allotment31
+https://id.analoggamemuseum.org/api/items/1022,responsibility_statement,ルールデザイン: えんつっつ@enn_virtual,AI,B3,responsibilityStatement,ルールデザイン:えんつっつ@enn_virtual
+https://id.analoggamemuseum.org/api/items/1022,responsibility_statement,企画・制作 ボードゲーム製作サークル彩友園,AI,B3,responsibilityStatement,企画制作ボードゲーム製作サークル彩友園
+https://id.analoggamemuseum.org/api/items/1050,publisher,KOAXA,AI,B29,publisher,koaxa
+https://id.analoggamemuseum.org/api/items/1050,contact_point,@593koaxa,AI,B29,contactPoint,@593koaxa
+https://id.analoggamemuseum.org/api/items/1050,contact_point,nknl-gesmarch@outlook.com,AI,B29,contactPoint,nknl-gesmarch@outlook.com
+https://id.analoggamemuseum.org/api/items/1050,product_name,死の貸与 スプーナリズムかるた,AI,B29,name,死の貸与スプーナリズムかるた
+https://id.analoggamemuseum.org/api/items/1050,responsibility_statement,発行元: KOAXA,AI,B29,responsibilityStatement,発行元:koaxa
+https://id.analoggamemuseum.org/api/items/1069,components,IL-177 1枚,AI,B27,component,il-1771枚
+https://id.analoggamemuseum.org/api/items/1069,components,イラストレーターカード 1枚,AI,B27,component,イラストレーターカード1枚
+https://id.analoggamemuseum.org/api/items/1069,components,ケルベロスのアクションカード 12枚,AI,B27,component,ケルベロスのアクションカード12枚
+https://id.analoggamemuseum.org/api/items/1069,components,ケルベロスカード 3枚,AI,B27,component,ケルベロスカード3枚
+https://id.analoggamemuseum.org/api/items/1069,components,ライフカード 3枚,AI,B27,component,ライフカード3枚
+https://id.analoggamemuseum.org/api/items/1069,components,選択カード 12枚,AI,B27,component,選択カード12枚
+https://id.analoggamemuseum.org/api/items/1069,components,魂カード 9枚,AI,B27,component,魂カード9枚
+https://id.analoggamemuseum.org/api/items/1069,components,魂カード 9枚 (3色×3枚),AI,B27,component,魂カード9枚(3色×3枚)
+https://id.analoggamemuseum.org/api/items/1069,game_time,15 MIN,AI,B27,playTime,pt15m
+https://id.analoggamemuseum.org/api/items/1069,number_of_players,2P,AI,B27,numberOfPlayers,2
+https://id.analoggamemuseum.org/api/items/1069,audience,AGE 10+,AI,B27,audience,10-
+https://id.analoggamemuseum.org/api/items/1069,publisher,zoEmooi,AI,B27,publisher,zoemooi
+https://id.analoggamemuseum.org/api/items/1069,product_name,The Awakening of Cerberus,AI,B27,name,theawakeningofcerberus
+https://id.analoggamemuseum.org/api/items/1069,product_name,ケルベロスの覚醒,AI,B27,name,ケルベロスの覚醒
+https://id.analoggamemuseum.org/api/items/1069,responsibility_statement,イラスト / なかむらゆき,AI,B27,responsibilityStatement,イラストなかむらゆき
+https://id.analoggamemuseum.org/api/items/1069,responsibility_statement,ゲームデザイン / ゾーイモーイ,AI,B27,responsibilityStatement,ゲームデザインゾーイモーイ
+https://id.analoggamemuseum.org/api/items/1071,product_name,この想い、花火にのせて,AI,B28,name,この想い、花火にのせて
+https://id.analoggamemuseum.org/api/items/1071,product_name,この想い、花火のせて,AI,B28,name,この想い、花火のせて
+https://id.analoggamemuseum.org/api/items/1071,publisher,LITTLE HERMIT,AI,B28,publisher,littlehermit
+https://id.analoggamemuseum.org/api/items/1071,game_time,10 min,AI,B28,playTime,pt10m
+https://id.analoggamemuseum.org/api/items/1071,number_of_players,2-5人,AI,B28,numberOfPlayers,2-5
+https://id.analoggamemuseum.org/api/items/1071,audience,10歳~,AI,B28,audience,10~
+https://id.analoggamemuseum.org/api/items/1071,components,10号1発 6枚,AI,B28,component,10号1発6枚
+https://id.analoggamemuseum.org/api/items/1071,components,10号1発・・・6枚,AI,B28,component,10号1発・・・6枚
+https://id.analoggamemuseum.org/api/items/1071,components,10号対打ち 2枚,AI,B28,component,10号対打ち2枚
+https://id.analoggamemuseum.org/api/items/1071,components,10号対打ち・・・2枚,AI,B28,component,10号対打ち・・・2枚
+https://id.analoggamemuseum.org/api/items/1071,components,5号1発 6枚,AI,B28,component,5号1発6枚
+https://id.analoggamemuseum.org/api/items/1071,components,5号1発・・・6枚,AI,B28,component,5号1発・・・6枚
+https://id.analoggamemuseum.org/api/items/1071,components,5号2発 4枚,AI,B28,component,5号2発4枚
+https://id.analoggamemuseum.org/api/items/1071,components,5号2発・・・4枚,AI,B28,component,5号2発・・・4枚
+https://id.analoggamemuseum.org/api/items/1071,components,5号5発 2枚,AI,B28,component,5号5発2枚
+https://id.analoggamemuseum.org/api/items/1071,components,5号5発・・・2枚,AI,B28,component,5号5発・・・2枚
+https://id.analoggamemuseum.org/api/items/1071,components,5号7号10号3段打ち 2枚,AI,B28,component,5号7号10号3段打ち2枚
+https://id.analoggamemuseum.org/api/items/1071,components,5号7号10号3段打ち・・・2枚,AI,B28,component,5号7号10号3段打ち・・・2枚
+https://id.analoggamemuseum.org/api/items/1071,components,7号1発 4枚,AI,B28,component,7号1発4枚
+https://id.analoggamemuseum.org/api/items/1071,components,7号1発・・・4枚,AI,B28,component,7号1発・・・4枚
+https://id.analoggamemuseum.org/api/items/1071,components,パッケージ台紙 1枚,AI,B28,component,パッケージ台紙1枚
+https://id.analoggamemuseum.org/api/items/1071,components,パッケージ台紙・・・1枚,AI,B28,component,パッケージ台紙・・・1枚
+https://id.analoggamemuseum.org/api/items/1071,components,メッセージカード 9枚,AI,B28,component,メッセージカード9枚
+https://id.analoggamemuseum.org/api/items/1071,components,メッセージカード・・・9枚,AI,B28,component,メッセージカード・・・9枚
+https://id.analoggamemuseum.org/api/items/1071,components,勝手に棚卸し 2枚,AI,B28,component,勝手に棚卸し2枚
+https://id.analoggamemuseum.org/api/items/1071,components,勝手に棚卸し・・・2枚,AI,B28,component,勝手に棚卸し・・・2枚
+https://id.analoggamemuseum.org/api/items/1071,components,千輪 2枚,AI,B28,component,千輪2枚
+https://id.analoggamemuseum.org/api/items/1071,components,千輪・・・2枚,AI,B28,component,千輪・・・2枚
+https://id.analoggamemuseum.org/api/items/1071,components,時差式 2枚,AI,B28,component,時差式2枚
+https://id.analoggamemuseum.org/api/items/1071,components,時差式・・・2枚,AI,B28,component,時差式・・・2枚
+https://id.analoggamemuseum.org/api/items/1071,components,特別値引き! 2枚,AI,B28,component,特別値引き!2枚
+https://id.analoggamemuseum.org/api/items/1071,components,特別値引き!・・・2枚,AI,B28,component,特別値引き!・・・2枚
+https://id.analoggamemuseum.org/api/items/1071,components,発注ミス 2枚,AI,B28,component,発注ミス2枚
+https://id.analoggamemuseum.org/api/items/1071,components,発注ミス・・・2枚,AI,B28,component,発注ミス・・・2枚
+https://id.analoggamemuseum.org/api/items/1071,components,目隠しカード 2枚,AI,B28,component,目隠しカード2枚
+https://id.analoggamemuseum.org/api/items/1071,components,目隠しカード・・・2枚,AI,B28,component,目隠しカード・・・2枚
+https://id.analoggamemuseum.org/api/items/1071,components,花火カード : 演出 (計4枚),AI,B28,component,花火カード演出(計4枚)
+https://id.analoggamemuseum.org/api/items/1071,components,花火カード: 特殊 (計6枚),AI,B28,component,花火カード特殊(計6枚)
+https://id.analoggamemuseum.org/api/items/1071,components,花火カード:玉 (計26枚),AI,B28,component,花火カード玉(計26枚)
+https://id.analoggamemuseum.org/api/items/1071,components,説明書 1部,AI,B28,component,説明書1部
+https://id.analoggamemuseum.org/api/items/1071,components,説明書・・・1部,AI,B28,component,説明書・・・1部
+https://id.analoggamemuseum.org/api/items/1071,barcode,4595120844055,AI,B28,barcode,4595120844055
+https://id.analoggamemuseum.org/api/items/1071,responsibility_statement,デザイン Illustrator,AI,B28,responsibilityStatement,デザインillustrator
+https://id.analoggamemuseum.org/api/items/1071,responsibility_statement,企画・販売,AI,B28,responsibilityStatement,企画販売
+https://id.analoggamemuseum.org/api/items/1781,publisher,LISAPA GAMES,AI,B276,publisher,lisapagames
+https://id.analoggamemuseum.org/api/items/1781,publisher,USAPAGAMES,AI,B276,publisher,usapagames
+https://id.analoggamemuseum.org/api/items/1781,number_of_players,2-5人,AI,B276,numberOfPlayers,2-5
+https://id.analoggamemuseum.org/api/items/1781,game_time,15min,AI,B276,playTime,pt15m
+https://id.analoggamemuseum.org/api/items/1781,audience,age 9+,AI,B276,audience,9-
+https://id.analoggamemuseum.org/api/items/1781,product_name,働け! vs 働きたくない!,AI,B276,name,働け!vs働きたくない!
+https://id.analoggamemuseum.org/api/items/1781,product_name,勇者パーティが働いてくれない,AI,B276,name,勇者パーティが働いてくれない
+https://id.analoggamemuseum.org/api/items/1781,product_name,忍者パーティーが働いてくれない,AI,B276,name,忍者パーティーが働いてくれない
+https://id.analoggamemuseum.org/api/items/1781,components,報酬カード: 16枚,AI,B276,component,報酬カード16枚
+https://id.analoggamemuseum.org/api/items/1781,components,職カード: 24枚,AI,B276,component,職カード24枚
+https://id.analoggamemuseum.org/api/items/1781,components,説明書: 1枚,AI,B276,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1781,components,陣営カード: 5枚,AI,B276,component,陣営カード5枚
+https://id.analoggamemuseum.org/api/items/1781,datePulished,2020,AI,B276,datePublished,2020
+https://id.analoggamemuseum.org/api/items/1056,product_name,Falstira,AI,B25,name,falstira
+https://id.analoggamemuseum.org/api/items/1056,components,カード24枚,AI,B25,component,カード24枚
+https://id.analoggamemuseum.org/api/items/1056,components,説明書,AI,B25,component,説明書
+https://id.analoggamemuseum.org/api/items/1056,audience,8+,AI,B25,audience,8-
+https://id.analoggamemuseum.org/api/items/1056,number_of_players,2-4人,AI,B25,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/1056,barcode,4582614140021,AI,B25,barcode,4582614140021
+https://id.analoggamemuseum.org/api/items/1056,datePulished,2022,AI,B25,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1056,publisher,Kannagi Entertainment,AI,B25,publisher,kannagientertainment
+https://id.analoggamemuseum.org/api/items/1072,components,カード 48枚,AI,B24,component,カード48枚
+https://id.analoggamemuseum.org/api/items/1072,components,木製キューブ(赤) 32個,AI,B24,component,木製キューブ(赤)32個
+https://id.analoggamemuseum.org/api/items/1072,components,木製キューブ(黄) 14個,AI,B24,component,木製キューブ(黄)14個
+https://id.analoggamemuseum.org/api/items/1072,components,説明書 1枚,AI,B24,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1072,number_of_players,2人,AI,B24,numberOfPlayers,2
+https://id.analoggamemuseum.org/api/items/1072,audience,12歳以上,AI,B24,audience,12-
+https://id.analoggamemuseum.org/api/items/1072,audience,12歳以上対象,AI,B24,audience,12-対象
+https://id.analoggamemuseum.org/api/items/1072,game_time,20分,AI,B24,playTime,pt20m
+https://id.analoggamemuseum.org/api/items/1072,responsibility_statement,アートワーク: 菅原美沙穂,AI,B24,responsibilityStatement,アートワーク:菅原美沙穂
+https://id.analoggamemuseum.org/api/items/1072,responsibility_statement,キャラクタードット絵: katarazu 倦怠期,AI,B24,responsibilityStatement,キャラクタードット絵:katarazu倦怠期
+https://id.analoggamemuseum.org/api/items/1072,responsibility_statement,ゲームデザイン: 新澤大樹,AI,B24,responsibilityStatement,ゲームデザイン:新澤大樹
+https://id.analoggamemuseum.org/api/items/1072,product_name,COMBO TRAX,AI,B24,name,combotrax
+https://id.analoggamemuseum.org/api/items/1072,product_name,コンボトラックス,AI,B24,name,コンボトラックス
+https://id.analoggamemuseum.org/api/items/1072,product_name,倦怠期,AI,B24,name,倦怠期
+https://id.analoggamemuseum.org/api/items/1070,product_name,カッパと猿と宇宙人,AI,B26,name,カッパと猿と宇宙人
+https://id.analoggamemuseum.org/api/items/1070,product_name,ビーランバー,AI,B26,name,ビーランバー
+https://id.analoggamemuseum.org/api/items/1070,publisher,ビーランバー,AI,B26,publisher,ビーランバー
+https://id.analoggamemuseum.org/api/items/1070,contact_point,@YasAki_BRB,AI,B26,contactPoint,@yasaki_brb
+https://id.analoggamemuseum.org/api/items/1070,components,がんばりカード 各色5枚 全25枚,AI,B26,component,がんばりカード各色5枚全25枚
+https://id.analoggamemuseum.org/api/items/1070,components,きゅうりカード 全25枚,AI,B26,component,きゅうりカード全25枚
+https://id.analoggamemuseum.org/api/items/1070,components,カッパカード 各色1枚 計5枚,AI,B26,component,カッパカード各色1枚計5枚
+https://id.analoggamemuseum.org/api/items/1070,components,カード56枚,AI,B26,component,カード56枚
+https://id.analoggamemuseum.org/api/items/1070,components,スコアボード 1部,AI,B26,component,スコアボード1部
+https://id.analoggamemuseum.org/api/items/1070,components,スコアマーカー (各色1個) 計5個,AI,B26,component,スコアマーカー(各色1個)計5個
+https://id.analoggamemuseum.org/api/items/1070,components,ド根性トークン (水色) 全25個,AI,B26,component,ド根性トークン(水色)全25個
+https://id.analoggamemuseum.org/api/items/1070,components,大将カード 1枚,AI,B26,component,大将カード1枚
+https://id.analoggamemuseum.org/api/items/1070,components,説明書 1部,AI,B26,component,説明書1部
+https://id.analoggamemuseum.org/api/items/1070,number_of_players,2~5人,AI,B26,numberOfPlayers,2-5
+https://id.analoggamemuseum.org/api/items/1070,game_time,30分,AI,B26,playTime,pt30m
+https://id.analoggamemuseum.org/api/items/1070,audience,6歳以上,AI,B26,audience,6-
+https://id.analoggamemuseum.org/api/items/1070,responsibility_statement,ゲームデザイン / アートワーク: ヤスナガアキラ,AI,B26,responsibilityStatement,ゲームデザインアートワーク:ヤスナガアキラ
+https://id.analoggamemuseum.org/api/items/1055,product_name,チンクエ +,AI,B22,name,チンクエ+
+https://id.analoggamemuseum.org/api/items/1055,number_of_players,2-5人,AI,B22,numberOfPlayers,2-5
+https://id.analoggamemuseum.org/api/items/1055,audience,8歳~,AI,B22,audience,8~
+https://id.analoggamemuseum.org/api/items/1055,publisher,Team biscotti,AI,B22,publisher,teambiscotti
+https://id.analoggamemuseum.org/api/items/1055,contact_point,Twitter : H_K_Biscotti,AI,B22,contactPoint,h_k_biscotti
+https://id.analoggamemuseum.org/api/items/1057,number_of_players,1~3人,AI,B23,numberOfPlayers,1-3
+https://id.analoggamemuseum.org/api/items/1057,game_time,約5分,AI,B23,playTime,pt5m
+https://id.analoggamemuseum.org/api/items/1057,audience,12歳以上,AI,B23,audience,12-
+https://id.analoggamemuseum.org/api/items/1057,responsibility_statement,イラスト&デザイン: 弘崎みなつ,AI,B23,responsibilityStatement,イラスト&デザイン:弘崎みなつ
+https://id.analoggamemuseum.org/api/items/1057,responsibility_statement,ゲームデザイン: 酢酸ソイソース,AI,B23,responsibilityStatement,ゲームデザイン:酢酸ソイソース
+https://id.analoggamemuseum.org/api/items/1057,product_name,梨卦,AI,B23,name,梨卦
+https://id.analoggamemuseum.org/api/items/1057,product_name,理科子の直鎖アルカン教室,AI,B23,name,理科子の直鎖アルカン教室
+https://id.analoggamemuseum.org/api/items/1031,product_name,ロボッコロ,AI,B20,name,ロボッコロ
+https://id.analoggamemuseum.org/api/items/1031,audience,8歳以上,AI,B20,audience,8-
+https://id.analoggamemuseum.org/api/items/1031,number_of_players,2〜4人,AI,B20,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/1031,game_time,15分,AI,B20,playTime,pt15m
+https://id.analoggamemuseum.org/api/items/1031,publisher,イチマルボックス,AI,B20,publisher,イチマルボックス
+https://id.analoggamemuseum.org/api/items/1031,contact_point,@ichimaru_box,AI,B20,contactPoint,@ichimaru_box
+https://id.analoggamemuseum.org/api/items/1029,product_name,ネコトリテ,AI,B2,name,ネコトリテ
+https://id.analoggamemuseum.org/api/items/1029,number_of_players,3-5人,AI,B2,numberOfPlayers,3-5
+https://id.analoggamemuseum.org/api/items/1029,number_of_players,4,AI,B2,numberOfPlayers,4
+https://id.analoggamemuseum.org/api/items/1029,publisher,オーヤマゲーム,AI,B2,publisher,オーヤマゲーム
+https://id.analoggamemuseum.org/api/items/1029,audience,9歳+,AI,B2,audience,9-
+https://id.analoggamemuseum.org/api/items/1029,responsibility_statement,GAME DESIGN by Kouichi Ooyama,AI,B2,responsibilityStatement,gamedesignbykouichiooyama
+https://id.analoggamemuseum.org/api/items/1029,responsibility_statement,Kouichi Ooyama,AI,B2,responsibilityStatement,kouichiooyama
+https://id.analoggamemuseum.org/api/items/1029,responsibility_statement,ゲームデザイン&イラスト: 大山功一,AI,B2,responsibilityStatement,ゲームデザイン&イラスト:大山功一
+https://id.analoggamemuseum.org/api/items/1029,version,第1版,AI,B2,version,第1版
+https://id.analoggamemuseum.org/api/items/1029,datePulished,2022,AI,B2,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1029,contact_point,Twitter @ooyamasgame,AI,B2,contactPoint,twitter@ooyamasgame
+https://id.analoggamemuseum.org/api/items/1032,product_name,HIDE and THIEF,AI,B19,name,hideandthief
+https://id.analoggamemuseum.org/api/items/1032,product_name,Hide&Thief,AI,B19,name,hide&thief
+https://id.analoggamemuseum.org/api/items/1032,product_name,ハイドアンドシーフ,AI,B19,name,ハイドアンドシーフ
+https://id.analoggamemuseum.org/api/items/1030,product_name,変体かるた,AI,B21,name,変体かるた
+https://id.analoggamemuseum.org/api/items/1030,components,ひらがなカード 17枚,AI,B21,component,ひらがなカード17枚
+https://id.analoggamemuseum.org/api/items/1030,components,一覧カード 2枚,AI,B21,component,一覧カード2枚
+https://id.analoggamemuseum.org/api/items/1030,components,変体仮名カード 17枚,AI,B21,component,変体仮名カード17枚
+https://id.analoggamemuseum.org/api/items/1030,publisher,こげこげ堂本舗,AI,B21,publisher,こげこげ堂本舗
+https://id.analoggamemuseum.org/api/items/1030,responsibility_statement,ゲームデザイン:ISA,AI,B21,responsibilityStatement,ゲームデザイン:isa
+https://id.analoggamemuseum.org/api/items/1044,product_name,GAL MAISON SHIBUYA,AI,B17,name,galmaisonshibuya
+https://id.analoggamemuseum.org/api/items/1044,product_name,Gale Maison Shibuya,AI,B17,name,galemaisonshibuya
+https://id.analoggamemuseum.org/api/items/1044,publisher,Queue De Lapin,AI,B17,publisher,queuedelapin
+https://id.analoggamemuseum.org/api/items/1044,version,えくすぱんしょん,AI,B17,version,えくすぱんしょん
+https://id.analoggamemuseum.org/api/items/1047,product_name,マジカ,AI,B16,name,マジカ
+https://id.analoggamemuseum.org/api/items/1047,product_name,綴言葉,AI,B16,name,綴言葉
+https://id.analoggamemuseum.org/api/items/1047,product_name,詠言葉,AI,B16,name,詠言葉
+https://id.analoggamemuseum.org/api/items/1047,product_name,魔法,AI,B16,name,魔法
+https://id.analoggamemuseum.org/api/items/1047,version,魔術世界の夜明け,AI,B16,version,魔術世界の夜明け
+https://id.analoggamemuseum.org/api/items/1047,number_of_players,4人~,AI,B16,numberOfPlayers,4-
+https://id.analoggamemuseum.org/api/items/1047,game_time,15分~,AI,B16,playTime,pt15m–inf
+https://id.analoggamemuseum.org/api/items/1047,publisher,@KeijinOffice,AI,B16,publisher,@keijinoffice
+https://id.analoggamemuseum.org/api/items/1074,components,グッズカード 12枚,AI,B153,component,グッズカード12枚
+https://id.analoggamemuseum.org/api/items/1074,components,タネカウンターカード 10枚,AI,B153,component,タネカウンターカード10枚
+https://id.analoggamemuseum.org/api/items/1074,components,ハムスターカード 48枚,AI,B153,component,ハムスターカード48枚
+https://id.analoggamemuseum.org/api/items/1074,components,説明書 1部,AI,B153,component,説明書1部
+https://id.analoggamemuseum.org/api/items/1074,number_of_players,2-5,AI,B153,numberOfPlayers,2-5
+https://id.analoggamemuseum.org/api/items/1074,game_time,15min.,AI,B153,playTime,pt15m
+https://id.analoggamemuseum.org/api/items/1074,audience,6 over,AI,B153,audience,6over
+https://id.analoggamemuseum.org/api/items/1074,product_name,HAM LOG,AI,B153,name,hamlog
+https://id.analoggamemuseum.org/api/items/1074,product_name,ハムログ,AI,B153,name,ハムログ
+https://id.analoggamemuseum.org/api/items/1102,product_name,POIPOI! SHIRANKEDO.,AI,B155,name,poipoi!shirankedo.
+https://id.analoggamemuseum.org/api/items/1102,product_name,っぽいぽい! 知らんけど,AI,B155,name,っぽいぽい!知らんけど
+https://id.analoggamemuseum.org/api/items/1102,product_name,っぽいぽい! 知らんけど。,AI,B155,name,っぽいぽい!知らんけど。
+https://id.analoggamemuseum.org/api/items/1102,product_name,っぽいぽい!! 知らんけど。,AI,B155,name,っぽいぽい!!知らんけど。
+https://id.analoggamemuseum.org/api/items/1102,product_name,ぽいぽい! 知らんけど。,AI,B155,name,ぽいぽい!知らんけど。
+https://id.analoggamemuseum.org/api/items/1102,components,カード: 40枚,AI,B155,component,カード40枚
+https://id.analoggamemuseum.org/api/items/1102,contact_point,https://bit.ly/shirankedo,AI,B155,contactPoint,bit.ly/shirankedo
+https://id.analoggamemuseum.org/api/items/1102,game_time,15min,AI,B155,playTime,pt15m
+https://id.analoggamemuseum.org/api/items/1102,number_of_players,3-6人,AI,B155,numberOfPlayers,3-6
+https://id.analoggamemuseum.org/api/items/1102,audience,7+,AI,B155,audience,7-
+https://id.analoggamemuseum.org/api/items/1102,publisher,Tapir Studio,AI,B155,publisher,tapirstudio
+https://id.analoggamemuseum.org/api/items/1095,product_name,Maat wings,AI,B154,name,maatwings
+https://id.analoggamemuseum.org/api/items/1095,product_name,マアトの羽,AI,B154,name,マアトの羽
+https://id.analoggamemuseum.org/api/items/1095,product_name,ミマアトの羽,AI,B154,name,ミマアトの羽
+https://id.analoggamemuseum.org/api/items/1095,product_name,ミマアトの羽生,AI,B154,name,ミマアトの羽生
+https://id.analoggamemuseum.org/api/items/1095,components,ルール説明書,AI,B154,component,ルール説明書
+https://id.analoggamemuseum.org/api/items/1095,components,心カード 36枚,AI,B154,component,心カード36枚
+https://id.analoggamemuseum.org/api/items/1095,components,羽カード(石カード) 13枚,AI,B154,component,羽カード(石カード)13枚
+https://id.analoggamemuseum.org/api/items/1095,audience,10+,AI,B154,audience,10-
+https://id.analoggamemuseum.org/api/items/1095,game_time,10-20分,AI,B154,playTime,pt10m–pt20m
+https://id.analoggamemuseum.org/api/items/1095,number_of_players,2-6人,AI,B154,numberOfPlayers,2-6
+https://id.analoggamemuseum.org/api/items/1095,contact_point,https://www.kettlehatplus1.com,AI,B154,contactPoint,www.kettlehatplus1.com
+https://id.analoggamemuseum.org/api/items/1095,contact_point,kettlehat.plus1@gmail.com,AI,B154,contactPoint,kettlehat.plus1@gmail.com
+https://id.analoggamemuseum.org/api/items/1095,datePulished,2022,AI,B154,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1095,publisher,KETTLEHAT+1,AI,B154,publisher,kettlehat+1
+https://id.analoggamemuseum.org/api/items/1095,responsibility_statement,アートワーク: Ka-Fu,AI,B154,responsibilityStatement,アートワーク:ka-fu
+https://id.analoggamemuseum.org/api/items/1095,responsibility_statement,ゲームデザイン: Toka,AI,B154,responsibilityStatement,ゲームデザイン:toka
+https://id.analoggamemuseum.org/api/items/1075,product_name,TOWER OF BABEL,AI,B152,name,towerofbabel
+https://id.analoggamemuseum.org/api/items/1075,product_name,バベルの塔,AI,B152,name,バベルの塔
+https://id.analoggamemuseum.org/api/items/1075,game_time,20分～,AI,B152,playTime,pt20m–inf
+https://id.analoggamemuseum.org/api/items/1075,game_time,8ターン,AI,B152,playTime,p8turn
+https://id.analoggamemuseum.org/api/items/1075,components,20種類 計68枚,AI,B152,component,20種類計68枚
+https://id.analoggamemuseum.org/api/items/1075,components,「人間」3枚,AI,B152,component,「人間」3枚
+https://id.analoggamemuseum.org/api/items/1075,components,「神」1枚,AI,B152,component,「神」1枚
+https://id.analoggamemuseum.org/api/items/1075,components,人格カード,AI,B152,component,人格カード
+https://id.analoggamemuseum.org/api/items/1075,components,人格カード…「人間」3枚、「神」1枚,AI,B152,component,人格カード…「人間」3枚、「神」1枚
+https://id.analoggamemuseum.org/api/items/1075,components,説明書(裏表1枚),AI,B152,component,説明書(裏表1枚)
+https://id.analoggamemuseum.org/api/items/1075,components,資材カード,AI,B152,component,資材カード
+https://id.analoggamemuseum.org/api/items/1075,components,資材カード…20種類 計68枚,AI,B152,component,資材カード…20種類計68枚
+https://id.analoggamemuseum.org/api/items/1075,number_of_players,4人,AI,B152,numberOfPlayers,4
+https://id.analoggamemuseum.org/api/items/1075,audience,10歳以上,AI,B152,audience,10-
+https://id.analoggamemuseum.org/api/items/1077,game_time,10-20min,AI,B151,playTime,pt10m–pt20m
+https://id.analoggamemuseum.org/api/items/1077,number_of_players,2 People,AI,B151,numberOfPlayers,2
+https://id.analoggamemuseum.org/api/items/1077,publisher,ONTAMA GAMES,AI,B151,publisher,ontamagames
+https://id.analoggamemuseum.org/api/items/1077,product_name,Check & Draw,AI,B151,name,check&draw
+https://id.analoggamemuseum.org/api/items/1077,product_name,Hidden Draw,AI,B151,name,hiddendraw
+https://id.analoggamemuseum.org/api/items/1077,product_name,Legend Eye of Providence,AI,B151,name,legendeyeofprovidence
+https://id.analoggamemuseum.org/api/items/1096,components,お冷コイン,AI,B149,component,お冷コイン
+https://id.analoggamemuseum.org/api/items/1096,components,お冷コイン 32個,AI,B149,component,お冷コイン32個
+https://id.analoggamemuseum.org/api/items/1096,components,アルコールカード 45枚,AI,B149,component,アルコールカード45枚
+https://id.analoggamemuseum.org/api/items/1096,components,イベントカード 14枚,AI,B149,component,イベントカード14枚
+https://id.analoggamemuseum.org/api/items/1096,components,カード,AI,B149,component,カード
+https://id.analoggamemuseum.org/api/items/1096,components,ルールカード 5枚,AI,B149,component,ルールカード5枚
+https://id.analoggamemuseum.org/api/items/1096,components,役職カード,AI,B149,component,役職カード
+https://id.analoggamemuseum.org/api/items/1096,components,役職カード 8枚,AI,B149,component,役職カード8枚
+https://id.analoggamemuseum.org/api/items/1096,components,遊び方ガイド,AI,B149,component,遊び方ガイド
+https://id.analoggamemuseum.org/api/items/1096,components,遊び方ガイド 1枚,AI,B149,component,遊び方ガイド1枚
+https://id.analoggamemuseum.org/api/items/1096,components,酔っぱらいカード 18枚,AI,B149,component,酔っぱらいカード18枚
+https://id.analoggamemuseum.org/api/items/1096,audience,20歳未満,AI,B149,audience,20未満
+https://id.analoggamemuseum.org/api/items/1096,audience,3才未満のお子様,AI,B149,audience,3未満のお子様
+https://id.analoggamemuseum.org/api/items/1096,audience,6才以上,AI,B149,audience,6-
+https://id.analoggamemuseum.org/api/items/1096,number_of_players,3〜5人,AI,B149,numberOfPlayers,3-5
+https://id.analoggamemuseum.org/api/items/1096,game_time,15～20分,AI,B149,playTime,pt15m–pt20m
+https://id.analoggamemuseum.org/api/items/1096,product_name,BERON,AI,B149,name,beron
+https://id.analoggamemuseum.org/api/items/1096,product_name,BERON BERON!,AI,B149,name,beronberon!
+https://id.analoggamemuseum.org/api/items/1096,product_name,べろんべろん,AI,B149,name,べろんべろん
+https://id.analoggamemuseum.org/api/items/1096,product_name,ベロンベロン!,AI,B149,name,ベロンベロン!
+https://id.analoggamemuseum.org/api/items/1096,publisher,TOGU,AI,B149,publisher,togu
+https://id.analoggamemuseum.org/api/items/1096,publisher,株式会社 東具,AI,B149,publisher,株式会社東具
+https://id.analoggamemuseum.org/api/items/1096,publisher,株式会社 東具 東京支店,AI,B149,publisher,株式会社東具東京支店
+https://id.analoggamemuseum.org/api/items/1096,contact_point,Tel 03-5652-0636 (代),AI,B149,contactPoint,tel03-5652-0636(代)
+https://id.analoggamemuseum.org/api/items/1097,product_name,BLACK COIN,AI,B148,name,blackcoin
+https://id.analoggamemuseum.org/api/items/1097,product_name,ブラックコイン,AI,B148,name,ブラックコイン
+https://id.analoggamemuseum.org/api/items/1097,components,コインチップ 20枚,AI,B148,component,コインチップ20枚
+https://id.analoggamemuseum.org/api/items/1097,components,ブラックコイン 1枚,AI,B148,component,ブラックコイン1枚
+https://id.analoggamemuseum.org/api/items/1097,components,プレイヤーカード 5枚,AI,B148,component,プレイヤーカード5枚
+https://id.analoggamemuseum.org/api/items/1097,components,ルールブック,AI,B148,component,ルールブック
+https://id.analoggamemuseum.org/api/items/1097,components,指さしチップ 5枚,AI,B148,component,指さしチップ5枚
+https://id.analoggamemuseum.org/api/items/1097,components,袋 1つ,AI,B148,component,袋1つ
+https://id.analoggamemuseum.org/api/items/1097,components,袋一つ,AI,B148,component,袋一つ
+https://id.analoggamemuseum.org/api/items/1097,components,親チップ 1枚,AI,B148,component,親チップ1枚
+https://id.analoggamemuseum.org/api/items/1097,components,警察カード 6枚,AI,B148,component,警察カード6枚
+https://id.analoggamemuseum.org/api/items/1097,components,資産カード 48枚,AI,B148,component,資産カード48枚
+https://id.analoggamemuseum.org/api/items/1097,game_time,30min,AI,B148,playTime,pt30m
+https://id.analoggamemuseum.org/api/items/1097,number_of_players,4~5人,AI,B148,numberOfPlayers,4-5
+https://id.analoggamemuseum.org/api/items/1097,audience,9+,AI,B148,audience,9-
+https://id.analoggamemuseum.org/api/items/1085,product_name,EXHAUST,AI,B146,name,exhaust
+https://id.analoggamemuseum.org/api/items/1085,product_name,イグゾースト,AI,B146,name,イグゾースト
+https://id.analoggamemuseum.org/api/items/1085,components,カード(56×87mm) 100枚,AI,B146,component,カード(56×87mm)100枚
+https://id.analoggamemuseum.org/api/items/1085,components,説明書,AI,B146,component,説明書
+https://id.analoggamemuseum.org/api/items/1085,publisher,OKAZU,AI,B146,publisher,okazu
+https://id.analoggamemuseum.org/api/items/1085,publisher,OKAZU Brand,AI,B146,publisher,okazubrand
+https://id.analoggamemuseum.org/api/items/1085,datePulished,2022,AI,B146,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1085,number_of_players,1~5人,AI,B146,numberOfPlayers,1-5
+https://id.analoggamemuseum.org/api/items/1085,audience,8歳~,AI,B146,audience,8~
+https://id.analoggamemuseum.org/api/items/1085,game_time,15~30min,AI,B146,playTime,pt15m–pt30m
+https://id.analoggamemuseum.org/api/items/1085,barcode,4589514890254,AI,B146,barcode,4589514890254
+https://id.analoggamemuseum.org/api/items/1085,responsibility_statement,Game design: Hisashi Hayashi (OKAZU),AI,B146,responsibilityStatement,gamedesign:hisashihayashi
+https://id.analoggamemuseum.org/api/items/1085,responsibility_statement,design and package: ryo_nyamo,AI,B146,responsibilityStatement,designandpackage:ryo_nyamo
+https://id.analoggamemuseum.org/api/items/1085,responsibility_statement,制作: OKAZU brand,AI,B146,responsibilityStatement,制作:okazubrand
+https://id.analoggamemuseum.org/api/items/1083,number_of_players,3-6,AI,B147,numberOfPlayers,3-6
+https://id.analoggamemuseum.org/api/items/1083,game_time,10-30 min,AI,B147,playTime,pt10m–pt30m
+https://id.analoggamemuseum.org/api/items/1083,audience,8+,AI,B147,audience,8-
+https://id.analoggamemuseum.org/api/items/1083,components,アクションカード: 20枚,AI,B147,component,アクションカード20枚
+https://id.analoggamemuseum.org/api/items/1083,components,サマリーカード: 1枚,AI,B147,component,サマリーカード1枚
+https://id.analoggamemuseum.org/api/items/1083,components,新刊カード: 30枚,AI,B147,component,新刊カード30枚
+https://id.analoggamemuseum.org/api/items/1083,components,書店カード: 10枚,AI,B147,component,書店カード10枚
+https://id.analoggamemuseum.org/api/items/1083,components,説明書: 1枚,AI,B147,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1083,components,販売カード: 70枚,AI,B147,component,販売カード70枚
+https://id.analoggamemuseum.org/api/items/1083,publisher,"SANKEISHA CO.,LTD",AI,B147,publisher,"sankeishaco.,ltd"
+https://id.analoggamemuseum.org/api/items/1083,publisher,"Sankeisha CO., LTD.",AI,B147,publisher,"sankeishaco.,ltd."
+https://id.analoggamemuseum.org/api/items/1083,publisher,Sankeisha bdgb,AI,B147,publisher,sankeishabdgb
+https://id.analoggamemuseum.org/api/items/1083,publisher,サンケイシャ,AI,B147,publisher,サンケイシャ
+https://id.analoggamemuseum.org/api/items/1083,publisher,株式会社三恵社,AI,B147,publisher,株式会社三恵社
+https://id.analoggamemuseum.org/api/items/1083,contact_point,TEL 052-915-5211,AI,B147,contactPoint,tel052-915-5211
+https://id.analoggamemuseum.org/api/items/1083,contact_point,〒462-0056 名古屋市北区中丸町2丁目24番地の1,AI,B147,contactPoint,〒462-0056名古屋市北区中丸町2丁目24番地の1
+https://id.analoggamemuseum.org/api/items/1083,datePulished,2022,AI,B147,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1083,product_name,アライヴ or デッド,AI,B147,name,アライヴorデッド
+https://id.analoggamemuseum.org/api/items/1083,responsibility_statement,グラフィックデザイン: alcreation,AI,B147,responsibilityStatement,グラフィックデザイン:alcreation
+https://id.analoggamemuseum.org/api/items/1083,responsibility_statement,ゲームデザイン: サンケイシャボドゲ部,AI,B147,responsibilityStatement,ゲームデザイン:サンケイシャボドゲ部
+https://id.analoggamemuseum.org/api/items/1083,responsibility_statement,原案: つよし,AI,B147,responsibilityStatement,原案:つよし
+https://id.analoggamemuseum.org/api/items/1083,barcode,4589692180086,AI,B147,barcode,4589692180086
+https://id.analoggamemuseum.org/api/items/1086,number_of_players,2~5人,AI,B145,numberOfPlayers,2-5
+https://id.analoggamemuseum.org/api/items/1086,components,プレイカード56枚,AI,B145,component,プレイカード56枚
+https://id.analoggamemuseum.org/api/items/1086,components,ルール説明カード4枚,AI,B145,component,ルール説明カード4枚
+https://id.analoggamemuseum.org/api/items/1086,publisher,サイ企画,AI,B145,publisher,サイ企画
+https://id.analoggamemuseum.org/api/items/1086,publisher,株式会社ビバリー,AI,B145,publisher,株式会社ビバリー
+https://id.analoggamemuseum.org/api/items/1086,contact_point,0120-357-210,AI,B145,contactPoint,0120-357-210
+https://id.analoggamemuseum.org/api/items/1086,contact_point,http://www.be-en.co.jp,AI,B145,contactPoint,www.be-en.co.jp
+https://id.analoggamemuseum.org/api/items/1086,contact_point,〒104-0061 東京都中央区銀座8-10-6,AI,B145,contactPoint,〒104-0061東京都中央区銀座8-10-6
+https://id.analoggamemuseum.org/api/items/1086,audience,7才以上,AI,B145,audience,7-
+https://id.analoggamemuseum.org/api/items/1086,barcode,4977524488743,AI,B145,barcode,4977524488743
+https://id.analoggamemuseum.org/api/items/1086,identifier,TRA-081,AI,B145,identifier,tra-081
+https://id.analoggamemuseum.org/api/items/1086,product_name,イナイーノ,AI,B145,name,イナイーノ
+https://id.analoggamemuseum.org/api/items/1086,responsibility_statement,ゲームデザイン 居椿善久(サイ企画),AI,B145,responsibilityStatement,ゲームデザイン居椿善久
+https://id.analoggamemuseum.org/api/items/1065,audience,16才から65才,AI,B144,audience,16から65
+https://id.analoggamemuseum.org/api/items/1065,components,カード立て4個,AI,B144,component,カード立て4個
+https://id.analoggamemuseum.org/api/items/1065,components,行動カード40枚,AI,B144,component,行動カード40枚
+https://id.analoggamemuseum.org/api/items/1065,components,説明書,AI,B144,component,説明書
+https://id.analoggamemuseum.org/api/items/1065,datePulished,2022年4月23日,AI,B144,datePublished,2022423
+https://id.analoggamemuseum.org/api/items/1065,version,初版,AI,B144,version,初版
+https://id.analoggamemuseum.org/api/items/1065,publisher,みらいラボ株式会社,AI,B144,publisher,みらいラボ株式会社
+https://id.analoggamemuseum.org/api/items/1065,publisher,株式会社萬印堂,AI,B144,publisher,株式会社萬印堂
+https://id.analoggamemuseum.org/api/items/1065,contact_point,mirailab.mukasa@gmail.com,AI,B144,contactPoint,mirailab.mukasa@gmail.com
+https://id.analoggamemuseum.org/api/items/1046,product_name,EVIFRONT,AI,B14,name,evifront
+https://id.analoggamemuseum.org/api/items/1046,product_name,EVILFRONT,AI,B14,name,evilfront
+https://id.analoggamemuseum.org/api/items/1046,product_name,イビルフロント,AI,B14,name,イビルフロント
+https://id.analoggamemuseum.org/api/items/1046,number_of_players,2人用,AI,B14,numberOfPlayers,2
+https://id.analoggamemuseum.org/api/items/1046,game_time,約20分,AI,B14,playTime,pt20m
+https://id.analoggamemuseum.org/api/items/1046,audience,10歳以上,AI,B14,audience,10-
+https://id.analoggamemuseum.org/api/items/1046,components,カード38枚,AI,B14,component,カード38枚
+https://id.analoggamemuseum.org/api/items/1046,datePulished,2022,AI,B14,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1046,publisher,SUSABI-GAMES,AI,B14,publisher,susabi-games
+https://id.analoggamemuseum.org/api/items/1046,publisher,Susabi Games,AI,B14,publisher,susabigames
+https://id.analoggamemuseum.org/api/items/1046,contact_point,https://susabigames.wixsite.com/susabigames,AI,B14,contactPoint,susabigames.wixsite.com/susabigames
+https://id.analoggamemuseum.org/api/items/1046,identifier,"4""571529980099",AI,B14,identifier,"4""571529980099"
+https://id.analoggamemuseum.org/api/items/1046,volume,拡張セット,AI,B14,volume,拡張セット
+https://id.analoggamemuseum.org/api/items/1046,volume,拡張セット 邪神招来,AI,B14,volume,拡張セット邪神招来
+https://id.analoggamemuseum.org/api/items/1046,barcode,4571529980099,AI,B14,barcode,4571529980099
+https://id.analoggamemuseum.org/api/items/1046,version,基本セット 邪神招来,AI,B14,version,基本セット邪神招来
+https://id.analoggamemuseum.org/api/items/1046,version,邪神招来,AI,B14,version,邪神招来
+https://id.analoggamemuseum.org/api/items/1051,product_name,HARAPEKO ROBO,AI,B141,name,harapekorobo
+https://id.analoggamemuseum.org/api/items/1051,product_name,ハラペコロボ,AI,B141,name,ハラペコロボ
+https://id.analoggamemuseum.org/api/items/1051,version,拡張パック,AI,B141,version,拡張パック
+https://id.analoggamemuseum.org/api/items/1051,version,拡張版,AI,B141,version,拡張版
+https://id.analoggamemuseum.org/api/items/1051,version,第1版,AI,B141,version,第1版
+https://id.analoggamemuseum.org/api/items/1051,volume,拡張版,AI,B141,volume,拡張版
+https://id.analoggamemuseum.org/api/items/1051,publisher,MUDDLER,AI,B141,publisher,muddler
+https://id.analoggamemuseum.org/api/items/1051,publisher,まどらーゲームス,AI,B141,publisher,まどらーゲームス
+https://id.analoggamemuseum.org/api/items/1051,number_of_players,1-6人,AI,B141,numberOfPlayers,1-6
+https://id.analoggamemuseum.org/api/items/1051,audience,12才以上,AI,B141,audience,12-
+https://id.analoggamemuseum.org/api/items/1051,game_time,15分,AI,B141,playTime,pt15m
+https://id.analoggamemuseum.org/api/items/1051,datePulished,2022,AI,B141,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1051,components,5780山札,AI,B141,component,5780山札
+https://id.analoggamemuseum.org/api/items/1051,components,新規カード,AI,B141,component,新規カード
+https://id.analoggamemuseum.org/api/items/1051,responsibility_statement,イラスト: ooyama (オーヤマゲーム),AI,B141,responsibilityStatement,イラスト:ooyama
+https://id.analoggamemuseum.org/api/items/1051,responsibility_statement,ゲームデザイン: ぐれみー (王子),AI,B141,responsibilityStatement,ゲームデザイン:ぐれみー
+https://id.analoggamemuseum.org/api/items/1051,responsibility_statement,サークル: まどらーゲームス,AI,B141,responsibilityStatement,サークル:まどらーゲームス
+https://id.analoggamemuseum.org/api/items/1054,product_name,13日,AI,B142,name,13日
+https://id.analoggamemuseum.org/api/items/1054,product_name,13日GAMES,AI,B142,name,13日games
+https://id.analoggamemuseum.org/api/items/1054,product_name,国ため,AI,B142,name,国ため
+https://id.analoggamemuseum.org/api/items/1054,components,ゲームトークン 45個,AI,B142,component,ゲームトークン45個
+https://id.analoggamemuseum.org/api/items/1054,components,プレイカード 57枚,AI,B142,component,プレイカード57枚
+https://id.analoggamemuseum.org/api/items/1054,components,契約カード 12枚,AI,B142,component,契約カード12枚
+https://id.analoggamemuseum.org/api/items/1054,components,説明書 1部,AI,B142,component,説明書1部
+https://id.analoggamemuseum.org/api/items/1054,audience,10才以上,AI,B142,audience,10-
+https://id.analoggamemuseum.org/api/items/1054,number_of_players,3-5人,AI,B142,numberOfPlayers,3-5
+https://id.analoggamemuseum.org/api/items/1054,game_time,20分,AI,B142,playTime,pt20m
+https://id.analoggamemuseum.org/api/items/1054,publisher,138GAMES,AI,B142,publisher,138games
+https://id.analoggamemuseum.org/api/items/1054,responsibility_statement,コンポーネントデザイン: 138GAMES,AI,B142,responsibilityStatement,コンポーネントデザイン:138games
+https://id.analoggamemuseum.org/api/items/1045,product_name,キズナラベ,AI,B143,name,キズナラベ
+https://id.analoggamemuseum.org/api/items/1038,number_of_players,1-4人,AI,B12,numberOfPlayers,1-4
+https://id.analoggamemuseum.org/api/items/1038,number_of_players,ソロプレイ,AI,B12,numberOfPlayers,ソロプレイ
+https://id.analoggamemuseum.org/api/items/1038,game_time,3〜20分,AI,B12,playTime,pt3m–pt20m
+https://id.analoggamemuseum.org/api/items/1038,audience,8才〜,AI,B12,audience,8-
+https://id.analoggamemuseum.org/api/items/1038,components,ゲームカード36枚,AI,B12,component,ゲームカード36枚
+https://id.analoggamemuseum.org/api/items/1038,components,サマリーカード1枚,AI,B12,component,サマリーカード1枚
+https://id.analoggamemuseum.org/api/items/1038,components,説明書,AI,B12,component,説明書
+https://id.analoggamemuseum.org/api/items/1038,datePulished,2022,AI,B12,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1038,publisher,こっち屋,AI,B12,publisher,こっち屋
+https://id.analoggamemuseum.org/api/items/1038,contact_point,http://yuofc2.blog72.fc2.com,AI,B12,contactPoint,yuofc2.blog72.fc2.com
+https://id.analoggamemuseum.org/api/items/1038,product_name,ATLAS JUNIOR,AI,B12,name,atlasjunior
+https://id.analoggamemuseum.org/api/items/1038,responsibility_statement,アートワーク: たかみまこと,AI,B12,responsibilityStatement,アートワーク:たかみまこと
+https://id.analoggamemuseum.org/api/items/1038,responsibility_statement,ゲームデザイン: ゆお(Yuo),AI,B12,responsibilityStatement,ゲームデザイン:ゆお
+https://id.analoggamemuseum.org/api/items/1049,product_name,Seven Segment Display,AI,B13,name,sevensegmentdisplay
+https://id.analoggamemuseum.org/api/items/1049,product_name,ななせぐ,AI,B13,name,ななせぐ
+https://id.analoggamemuseum.org/api/items/1049,components,クリアカード 64枚,AI,B13,component,クリアカード64枚
+https://id.analoggamemuseum.org/api/items/1049,components,数字チップ 20枚,AI,B13,component,数字チップ20枚
+https://id.analoggamemuseum.org/api/items/1082,product_name,MOU,AI,B110,name,mou
+https://id.analoggamemuseum.org/api/items/1082,product_name,モウ,AI,B110,name,モウ
+https://id.analoggamemuseum.org/api/items/1082,product_name,限界神経衰弱,AI,B110,name,限界神経衰弱
+https://id.analoggamemuseum.org/api/items/1082,components,ルールカード 2枚,AI,B110,component,ルールカード2枚
+https://id.analoggamemuseum.org/api/items/1082,components,牛カード 30枚,AI,B110,component,牛カード30枚
+https://id.analoggamemuseum.org/api/items/1082,number_of_players,2人以上,AI,B110,numberOfPlayers,2-
+https://id.analoggamemuseum.org/api/items/1082,audience,6歳以上,AI,B110,audience,6-
+https://id.analoggamemuseum.org/api/items/1082,game_time,5〜10分,AI,B110,playTime,pt5m–pt10m
+https://id.analoggamemuseum.org/api/items/1082,publisher,KANAME MOTION,AI,B110,publisher,kanamemotion
+https://id.analoggamemuseum.org/api/items/1082,publisher,かなめもーしょん,AI,B110,publisher,かなめもーしょん
+https://id.analoggamemuseum.org/api/items/1091,components,カード計: 40枚,AI,B109,component,カード計40枚
+https://id.analoggamemuseum.org/api/items/1091,components,ゲームボード,AI,B109,component,ゲームボード
+https://id.analoggamemuseum.org/api/items/1091,components,ゲームボード (説明書裏面),AI,B109,component,ゲームボード(説明書裏面)
+https://id.analoggamemuseum.org/api/items/1091,components,字札 : 18枚,AI,B109,component,字札18枚
+https://id.analoggamemuseum.org/api/items/1091,components,絵札 22枚,AI,B109,component,絵札22枚
+https://id.analoggamemuseum.org/api/items/1091,components,説明書 1部,AI,B109,component,説明書1部
+https://id.analoggamemuseum.org/api/items/1091,version,第二版,AI,B109,version,第二版
+https://id.analoggamemuseum.org/api/items/1091,datePulished,2022,AI,B109,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1091,publisher,SALTY STUDIO,AI,B109,publisher,saltystudio
+https://id.analoggamemuseum.org/api/items/1091,product_name,うら,AI,B109,name,うら
+https://id.analoggamemuseum.org/api/items/1091,product_name,うらにわ,AI,B109,name,うらにわ
+https://id.analoggamemuseum.org/api/items/1091,product_name,うらにわにはにわ うらにはにわ にわとりがいる,AI,B109,name,うらにわにはにわうらにはにわにわとりがいる
+https://id.analoggamemuseum.org/api/items/1091,game_time,約15分,AI,B109,playTime,pt15m
+https://id.analoggamemuseum.org/api/items/1091,number_of_players,2人以上,AI,B109,numberOfPlayers,2-
+https://id.analoggamemuseum.org/api/items/1091,audience,5才以上,AI,B109,audience,5-
+https://id.analoggamemuseum.org/api/items/1091,responsibility_statement,グラフィック / あかさめ,AI,B109,responsibilityStatement,グラフィックあかさめ
+https://id.analoggamemuseum.org/api/items/1091,responsibility_statement,ゲームデザイン/ あかさめ,AI,B109,responsibilityStatement,ゲームデザインあかさめ
+https://id.analoggamemuseum.org/api/items/1061,product_name,CARD & DICE,AI,B108,name,card&dice
+https://id.analoggamemuseum.org/api/items/1061,product_name,カード&ダイス,AI,B108,name,カード&ダイス
+https://id.analoggamemuseum.org/api/items/1061,audience,9歳+,AI,B108,audience,9-
+https://id.analoggamemuseum.org/api/items/1061,number_of_players,2~4人,AI,B108,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/1061,version,第1版,AI,B108,version,第1版
+https://id.analoggamemuseum.org/api/items/1061,contact_point,@ooyamasgame,AI,B108,contactPoint,@ooyamasgame
+https://id.analoggamemuseum.org/api/items/1061,contact_point,ooyama.le.al.2009.12@gmail.com,AI,B108,contactPoint,ooyama.le.al.2009.12@gmail.com
+https://id.analoggamemuseum.org/api/items/1061,datePulished,2022,AI,B108,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1061,publisher,Kouichi Ooyama,AI,B108,publisher,kouichiooyama
+https://id.analoggamemuseum.org/api/items/1061,responsibility_statement,GAME DESIGN: Kouichi Ooyama,AI,B108,responsibilityStatement,gamedesign:kouichiooyama
+https://id.analoggamemuseum.org/api/items/1061,responsibility_statement,ゲームデザイン&イラスト: 大山功一,AI,B108,responsibilityStatement,ゲームデザイン&イラスト:大山功一
+https://id.analoggamemuseum.org/api/items/1024,datePulished,1968年,AI,B11,datePublished,1968
+https://id.analoggamemuseum.org/api/items/1024,datePulished,1970年,AI,B11,datePublished,1970
+https://id.analoggamemuseum.org/api/items/1024,datePulished,1971年,AI,B11,datePublished,1971
+https://id.analoggamemuseum.org/api/items/1024,datePulished,1973年,AI,B11,datePublished,1973
+https://id.analoggamemuseum.org/api/items/1024,product_name,King,AI,B11,name,king
+https://id.analoggamemuseum.org/api/items/1024,product_name,MORFINS,AI,B11,name,morfins
+https://id.analoggamemuseum.org/api/items/1024,product_name,モーフィンズ,AI,B11,name,モーフィンズ
+https://id.analoggamemuseum.org/api/items/1100,product_name,metro-,AI,B107,name,metro-
+https://id.analoggamemuseum.org/api/items/1100,product_name,metro-ロックス,AI,B107,name,metro-ロックス
+https://id.analoggamemuseum.org/api/items/1100,product_name,メトロックス,AI,B107,name,メトロックス
+https://id.analoggamemuseum.org/api/items/1100,product_name,メトロックス 追加マップ集,AI,B107,name,メトロックス追加マップ集
+https://id.analoggamemuseum.org/api/items/1100,version,2,AI,B107,version,2
+https://id.analoggamemuseum.org/api/items/1100,version,Extention Map Pack,AI,B107,version,extentionmappack
+https://id.analoggamemuseum.org/api/items/1100,version,追加マップ集,AI,B107,version,追加マップ集
+https://id.analoggamemuseum.org/api/items/1100,components,KOBEマップ (100枚),AI,B107,component,kobeマップ(100枚)
+https://id.analoggamemuseum.org/api/items/1100,components,KYOTOマップ (100枚),AI,B107,component,kyotoマップ(100枚)
+https://id.analoggamemuseum.org/api/items/1100,components,SAPPOROマップ (100枚),AI,B107,component,sapporoマップ(100枚)
+https://id.analoggamemuseum.org/api/items/1100,components,説明書,AI,B107,component,説明書
+https://id.analoggamemuseum.org/api/items/1100,publisher,OKAZU,AI,B107,publisher,okazu
+https://id.analoggamemuseum.org/api/items/1100,publisher,OKAZU Brand,AI,B107,publisher,okazubrand
+https://id.analoggamemuseum.org/api/items/1100,datePulished,2018-2022,AI,B107,datePublished,20182022
+https://id.analoggamemuseum.org/api/items/1100,number_of_players,1-6人,AI,B107,numberOfPlayers,1-6
+https://id.analoggamemuseum.org/api/items/1100,audience,8歳以上,AI,B107,audience,8-
+https://id.analoggamemuseum.org/api/items/1100,game_time,20分,AI,B107,playTime,pt20m
+https://id.analoggamemuseum.org/api/items/1100,barcode,4589514890247,AI,B107,barcode,4589514890247
+https://id.analoggamemuseum.org/api/items/1100,volume,SAPPORO & KOBE & KYOTO,AI,B107,volume,sapporo&kobe&kyoto
+https://id.analoggamemuseum.org/api/items/1100,responsibility_statement,Game design: Hisashi Hayashi,AI,B107,responsibilityStatement,gamedesign:hisashihayashi
+https://id.analoggamemuseum.org/api/items/1100,responsibility_statement,design and package: ryo_nyamo,AI,B107,responsibilityStatement,designandpackage:ryo_nyamo
+https://id.analoggamemuseum.org/api/items/1101,product_name,two seesaws,AI,B106,name,twoseesaws
+https://id.analoggamemuseum.org/api/items/1101,product_name,シーシーソー,AI,B106,name,シーシーソー
+https://id.analoggamemuseum.org/api/items/1101,product_name,ツーシーソー,AI,B106,name,ツーシーソー
+https://id.analoggamemuseum.org/api/items/1101,product_name,回家回,AI,B106,name,回家回
+https://id.analoggamemuseum.org/api/items/1101,publisher,ORUCAgames,AI,B106,publisher,orucagames
+https://id.analoggamemuseum.org/api/items/1101,components,サマリー/2枚,AI,B106,component,サマリー2枚
+https://id.analoggamemuseum.org/api/items/1101,components,トリック勝利条件カード/6枚,AI,B106,component,トリック勝利条件カード6枚
+https://id.analoggamemuseum.org/api/items/1101,components,数字カード/52枚,AI,B106,component,数字カード52枚
+https://id.analoggamemuseum.org/api/items/1101,components,説明書,AI,B106,component,説明書
+https://id.analoggamemuseum.org/api/items/1101,contact_point,https://orucagames.web.fc2.com/,AI,B106,contactPoint,orucagames.web.fc2.com
+https://id.analoggamemuseum.org/api/items/1101,responsibility_statement,アートデザイン: 少年 (葵屋),AI,B106,responsibilityStatement,アートデザイン:少年
+https://id.analoggamemuseum.org/api/items/1101,responsibility_statement,イラスト: Moyy,AI,B106,responsibilityStatement,イラスト:moyy
+https://id.analoggamemuseum.org/api/items/1101,responsibility_statement,ゲームデザイン: 外鴨なきく,AI,B106,responsibilityStatement,ゲームデザイン:外鴨なきく
+https://id.analoggamemuseum.org/api/items/1101,responsibility_statement,制作: ORUCAgames,AI,B106,responsibilityStatement,制作:orucagames
+https://id.analoggamemuseum.org/api/items/4960,product_name,How to セイ,AI,B102,name,howtoセイ
+https://id.analoggamemuseum.org/api/items/4960,product_name,How to 分別,AI,B102,name,howto分別
+https://id.analoggamemuseum.org/api/items/4960,product_name,Let's How to!!,AI,B102,name,let'showto!!
+https://id.analoggamemuseum.org/api/items/4960,components,ゴミカード,AI,B102,component,ゴミカード
+https://id.analoggamemuseum.org/api/items/4960,components,ゴミカード36枚,AI,B102,component,ゴミカード36枚
+https://id.analoggamemuseum.org/api/items/4960,components,曜日カード,AI,B102,component,曜日カード
+https://id.analoggamemuseum.org/api/items/4960,components,曜日カード16枚,AI,B102,component,曜日カード16枚
+https://id.analoggamemuseum.org/api/items/4960,components,説明書1部,AI,B102,component,説明書1部
+https://id.analoggamemuseum.org/api/items/4960,game_time,5分~20分,AI,B102,playTime,pt5m–pt20m
+https://id.analoggamemuseum.org/api/items/4960,number_of_players,2人~6人,AI,B102,numberOfPlayers,2-6
+https://id.analoggamemuseum.org/api/items/4960,audience,0-3,AI,B102,audience,0-3
+https://id.analoggamemuseum.org/api/items/4960,barcode,4582617920019,AI,B102,barcode,4582617920019
+https://id.analoggamemuseum.org/api/items/4960,responsibility_statement,CHARACTER DESIGN: LIOBA,AI,B102,responsibilityStatement,characterdesign:lioba
+https://id.analoggamemuseum.org/api/items/4960,responsibility_statement,GAME DESIGN: Liberty,AI,B102,responsibilityStatement,gamedesign:liberty
+https://id.analoggamemuseum.org/api/items/1105,product_name,きょうの勝ち,AI,B101,name,きょうの勝ち
+https://id.analoggamemuseum.org/api/items/1105,product_name,きょうの勝ち カノープス,AI,B101,name,きょうの勝ちカノープス
+https://id.analoggamemuseum.org/api/items/1105,components,お題カード 28枚,AI,B101,component,お題カード28枚
+https://id.analoggamemuseum.org/api/items/1105,components,説明カード2枚,AI,B101,component,説明カード2枚
+https://id.analoggamemuseum.org/api/items/1105,publisher,NANAWARI,AI,B101,publisher,nanawari
+https://id.analoggamemuseum.org/api/items/1105,barcode,4570046310082,AI,B101,barcode,4570046310082
+https://id.analoggamemuseum.org/api/items/1105,version,カノープス,AI,B101,version,カノープス
+https://id.analoggamemuseum.org/api/items/1105,contact_point,https://nanawari.myportfolio.com/,AI,B101,contactPoint,nanawari.myportfolio.com
+https://id.analoggamemuseum.org/api/items/1105,contact_point,nanawari.games@gmail.com,AI,B101,contactPoint,nanawari.games@gmail.com
+https://id.analoggamemuseum.org/api/items/1105,datePulished,2022,AI,B101,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1105,responsibility_statement,ゲームデザイン&アートワーク,AI,B101,responsibilityStatement,ゲームデザイン&アートワーク
+https://id.analoggamemuseum.org/api/items/1105,responsibility_statement,パッケージイラストレーション,AI,B101,responsibilityStatement,パッケージイラストレーション
+https://id.analoggamemuseum.org/api/items/1103,product_name,きょうの勝ち,AI,B103,name,きょうの勝ち
+https://id.analoggamemuseum.org/api/items/1103,product_name,きょうの勝ち シリウス,AI,B103,name,きょうの勝ちシリウス
+https://id.analoggamemuseum.org/api/items/1103,product_name,シリウス,AI,B103,name,シリウス
+https://id.analoggamemuseum.org/api/items/1103,barcode,4570046310075,AI,B103,barcode,4570046310075
+https://id.analoggamemuseum.org/api/items/1103,contact_point,https://nanawari.myportfolio.com/,AI,B103,contactPoint,nanawari.myportfolio.com
+https://id.analoggamemuseum.org/api/items/1103,contact_point,nanawari.games@gmail.com,AI,B103,contactPoint,nanawari.games@gmail.com
+https://id.analoggamemuseum.org/api/items/1103,datePulished,2021年秋,AI,B103,datePublished,2021
+https://id.analoggamemuseum.org/api/items/1103,datePulished,2022,AI,B103,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1103,publisher,NANAWARI,AI,B103,publisher,nanawari
+https://id.analoggamemuseum.org/api/items/1103,volume,第1弾,AI,B103,volume,第1弾
+https://id.analoggamemuseum.org/api/items/1103,components,お題カード 28枚,AI,B103,component,お題カード28枚
+https://id.analoggamemuseum.org/api/items/1103,components,説明カード2枚,AI,B103,component,説明カード2枚
+https://id.analoggamemuseum.org/api/items/1103,version,シリウス,AI,B103,version,シリウス
+https://id.analoggamemuseum.org/api/items/1103,responsibility_statement,ゲームデザイン&アートワーク,AI,B103,responsibilityStatement,ゲームデザイン&アートワーク
+https://id.analoggamemuseum.org/api/items/1103,responsibility_statement,パッケージイラストレーション,AI,B103,responsibilityStatement,パッケージイラストレーション
+https://id.analoggamemuseum.org/api/items/1099,barcode,4573492470287,AI,B104,barcode,4573492470287
+https://id.analoggamemuseum.org/api/items/1099,identifier,B22.04.23,AI,B104,identifier,b22.04.23
+https://id.analoggamemuseum.org/api/items/1099,product_name,ころころ 爆弾とお宝,AI,B104,name,ころころ爆弾とお宝
+https://id.analoggamemuseum.org/api/items/1099,product_name,爆弾とお宝,AI,B104,name,爆弾とお宝
+https://id.analoggamemuseum.org/api/items/1099,number_of_players,3人 ~7人,AI,B104,numberOfPlayers,3-7
+https://id.analoggamemuseum.org/api/items/1099,game_time,5分〜20分,AI,B104,playTime,pt5m–pt20m
+https://id.analoggamemuseum.org/api/items/1099,audience,8才以上,AI,B104,audience,8-
+https://id.analoggamemuseum.org/api/items/1099,publisher,スピカデザイン,AI,B104,publisher,スピカデザイン
+https://id.analoggamemuseum.org/api/items/1099,contact_point,http://spicadesign-gd.image.coocan.jp/,AI,B104,contactPoint,spicadesign-gd.image.coocan.jp
+https://id.analoggamemuseum.org/api/items/1099,datePulished,22.04.23,AI,B104,datePublished,220423
+https://id.analoggamemuseum.org/api/items/1099,responsibility_statement,制作・著作,AI,B104,responsibilityStatement,制作著作
+https://id.analoggamemuseum.org/api/items/1093,product_name,終わらない物語,AI,B100,name,終わらない物語
+https://id.analoggamemuseum.org/api/items/1093,audience,12+,AI,B100,audience,12-
+https://id.analoggamemuseum.org/api/items/1093,game_time,約20分,AI,B100,playTime,pt20m
+https://id.analoggamemuseum.org/api/items/1093,number_of_players,4-7人,AI,B100,numberOfPlayers,4-7
+https://id.analoggamemuseum.org/api/items/1093,publisher,SALTY STUDIO,AI,B100,publisher,saltystudio
+https://id.analoggamemuseum.org/api/items/1093,components,カード計: 36枚,AI,B100,component,カード計36枚
+https://id.analoggamemuseum.org/api/items/1093,components,場所カード: 6枚,AI,B100,component,場所カード6枚
+https://id.analoggamemuseum.org/api/items/1093,components,正体カード: 9枚,AI,B100,component,正体カード9枚
+https://id.analoggamemuseum.org/api/items/1093,components,職業カード : 6枚,AI,B100,component,職業カード6枚
+https://id.analoggamemuseum.org/api/items/1093,components,証拠カード : 9枚,AI,B100,component,証拠カード9枚
+https://id.analoggamemuseum.org/api/items/1093,components,説明書:1部,AI,B100,component,説明書1部
+https://id.analoggamemuseum.org/api/items/1093,components,関係カード : 6枚,AI,B100,component,関係カード6枚
+https://id.analoggamemuseum.org/api/items/1093,version,第二版,AI,B100,version,第二版
+https://id.analoggamemuseum.org/api/items/1093,responsibility_statement,グラフィック /あかさめ,AI,B100,responsibilityStatement,グラフィックあかさめ
+https://id.analoggamemuseum.org/api/items/1093,responsibility_statement,ゲームデザイン/あかさめ,AI,B100,responsibilityStatement,ゲームデザインあかさめ
+https://id.analoggamemuseum.org/api/items/1093,datePulished,2022,AI,B100,datePublished,2022
+https://id.analoggamemuseum.org/api/items/1025,product_name,DRESS LIFE,AI,B10,name,dresslife
+https://id.analoggamemuseum.org/api/items/1025,product_name,ドレスライフ,AI,B10,name,ドレスライフ
+https://id.analoggamemuseum.org/api/items/1025,version,A Cool Version,AI,B10,version,acoolversion
+https://id.analoggamemuseum.org/api/items/1025,version,クールバージョン,AI,B10,version,クールバージョン
+https://id.analoggamemuseum.org/api/items/1025,responsibility_statement,Game Design: Maru.,AI,B10,responsibilityStatement,gamedesign:maru.
+https://id.analoggamemuseum.org/api/items/1025,responsibility_statement,Game Illustration: Masahiko Omi,AI,B10,responsibilityStatement,gameillustration:masahikoomi
+https://id.analoggamemuseum.org/api/items/1884,product_name,雅 GA-GA,AI,A464,name,雅ga-ga
+https://id.analoggamemuseum.org/api/items/2232,product_name,HOSHINOTRAIN,AI,A457,name,hoshinotrain
+https://id.analoggamemuseum.org/api/items/2232,product_name,ホシノトレイン,AI,A457,name,ホシノトレイン
+https://id.analoggamemuseum.org/api/items/2232,publisher,スタジオくるくる,AI,A457,publisher,スタジオくるくる
+https://id.analoggamemuseum.org/api/items/1187,product_name,Savannah Rush,AI,A445,name,savannahrush
+https://id.analoggamemuseum.org/api/items/1187,product_name,サバンナ クラッシュ,AI,A445,name,サバンナクラッシュ
+https://id.analoggamemuseum.org/api/items/1187,product_name,サバンナ ラッシュ,AI,A445,name,サバンナラッシュ
+https://id.analoggamemuseum.org/api/items/1187,publisher,top games.,AI,A445,publisher,topgames.
+https://id.analoggamemuseum.org/api/items/1187,publisher,イオピーゲームズ,AI,A445,publisher,イオピーゲームズ
+https://id.analoggamemuseum.org/api/items/1187,barcode,4573121090091,AI,A445,barcode,4573121090091
+https://id.analoggamemuseum.org/api/items/1187,number_of_players,2人,AI,A445,numberOfPlayers,2
+https://id.analoggamemuseum.org/api/items/1187,game_time,30分~,AI,A445,playTime,pt30m–inf
+https://id.analoggamemuseum.org/api/items/1187,audience,8歳~,AI,A445,audience,8~
+https://id.analoggamemuseum.org/api/items/1187,components,サマリーカード:2枚,AI,A445,component,サマリーカード2枚
+https://id.analoggamemuseum.org/api/items/1187,components,マップタイル:9枚,AI,A445,component,マップタイル9枚
+https://id.analoggamemuseum.org/api/items/1187,components,ルール説明書:1部,AI,A445,component,ルール説明書1部
+https://id.analoggamemuseum.org/api/items/1187,components,動物コマ:40個,AI,A445,component,動物コマ40個
+https://id.analoggamemuseum.org/api/items/1187,components,布袋:1枚,AI,A445,component,布袋1枚
+https://id.analoggamemuseum.org/api/items/1187,components,担当マーカー: 5枚,AI,A445,component,担当マーカー5枚
+https://id.analoggamemuseum.org/api/items/1187,components,樹オブジェ:1個,AI,A445,component,樹オブジェ1個
+https://id.analoggamemuseum.org/api/items/1187,contact_point,games@io-p.net,AI,A445,contactPoint,games@io-p.net
+https://id.analoggamemuseum.org/api/items/1187,contact_point,https://io-p.net/games/,AI,A445,contactPoint,io-p.net/games
+https://id.analoggamemuseum.org/api/items/1187,responsibility_statement,アートワーク: 別府さい,AI,A445,responsibilityStatement,アートワーク:別府さい
+https://id.analoggamemuseum.org/api/items/1187,responsibility_statement,ゲームデザイン: 池田勝,AI,A445,responsibilityStatement,ゲームデザイン:池田勝
+https://id.analoggamemuseum.org/api/items/1033,product_name,TURN,AI,B1,name,turn
+https://id.analoggamemuseum.org/api/items/1033,number_of_players,2~4人,AI,B1,numberOfPlayers,2-4
+https://id.analoggamemuseum.org/api/items/1033,audience,12歳~,AI,B1,audience,12~
+https://id.analoggamemuseum.org/api/items/1033,components,カード 36枚,AI,B1,component,カード36枚
+https://id.analoggamemuseum.org/api/items/1033,components,説明書 1枚,AI,B1,component,説明書1枚
+https://id.analoggamemuseum.org/api/items/1033,responsibility_statement,ゲームデザイン / アートワーク UNISON GAMES,AI,B1,responsibilityStatement,ゲームデザインアートワークunisongames
+https://id.analoggamemuseum.org/api/items/1033,publisher,UNISON GAMES,AI,B1,publisher,unisongames

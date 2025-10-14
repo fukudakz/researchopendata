@@ -1,0 +1,47 @@
+================================================================================
+METADATA COMPARISON ANALYSIS REPORT
+AI-OCR抽出 vs 人間作成メタデータ
+================================================================================
+
+📊 OVERALL METRICS:
+Common instances: 121
+AI extracted triples: 1492
+Human created triples: 1236
+
+True Positives (TP): 729
+False Positives (FP): 763
+False Negatives (FN): 507
+
+Precision: 0.489
+Recall: 0.590
+F1-Score: 0.534
+
+📋 PROPERTY-WISE METRICS:
+Property                  AI     Human  TP   FP   FN   Prec   Rec    F1    
+--------------------------------------------------------------------------------
+barcode                   25     23     22   3    1    0.880  0.957  0.917 
+numberOfPlayers           98     100    79   19   21   0.806  0.790  0.798 
+playTime                  81     98     64   17   34   0.790  0.653  0.715 
+audience                  99     90     58   41   32   0.586  0.644  0.614 
+component                 412    307    213  199  94   0.517  0.694  0.592 
+name                      262    202    115  147  87   0.439  0.569  0.496 
+publisher                 165    103    66   99   37   0.400  0.641  0.493 
+datePublished             47     106    35   12   71   0.745  0.330  0.458 
+version                   31     16     10   21   6    0.323  0.625  0.426 
+responsibilityStatement   145    170    55   90   115  0.379  0.324  0.349 
+identifier                14     3      2    12   1    0.143  0.667  0.235 
+contactPoint              103    18     10   93   8    0.097  0.556  0.165 
+
+🏆 TOP 5 PROPERTIES (by F1-score):
+  barcode: F1=0.917
+  numberOfPlayers: F1=0.798
+  playTime: F1=0.715
+  audience: F1=0.614
+  component: F1=0.592
+
+⚠️  BOTTOM 5 PROPERTIES (by F1-score):
+  datePublished: F1=0.458
+  version: F1=0.426
+  responsibilityStatement: F1=0.349
+  identifier: F1=0.235
+  contactPoint: F1=0.165
