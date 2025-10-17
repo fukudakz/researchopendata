@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified">
+
+  <!-- ルート要素 manual -->
+  <xs:element name="manual">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="page" type="PageType" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="title" type="xs:string" use="required"/>
+      <xs:attribute name="lang" type="xs:string" use="optional"/>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- ページ -->
+  <xs:complexType name="PageType">
+    <xs:sequence>
+      <xs:element name="section" type="SectionType" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="number" type="xs:positiveInteger" use="required"/>
+    <xs:attribute name="img" type="xs:string" use="optional"/>
+  </xs:complexType>
+
+  <!-- セクション -->
+  <xs:complexType name="SectionType">
+    <xs:sequence>
+      <xs:element name="head" type="xs:string"/>
+      <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="subsection" type="SectionType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:ID" use="optional"/>
+    <xs:attribute name="type" type="xs:string" use="optional"/>
+  </xs:complexType>
+
+</xs:schema>

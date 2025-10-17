@@ -1,0 +1,42 @@
+================================================================================
+BATCH COMPARISON SUMMARY REPORT
+Total games analyzed: 5
+================================================================================
+
+📊 PER-GAME SUMMARY:
+Game ID              AI Secs    Hum Secs   F1-Score   Edit Dist   
+--------------------------------------------------------------------------------
+CLV-P-HAAPJ          35         35         0.771      0.229       
+CLV-P-HABNJ          12         13         0.880      0.077       
+CLV-P-HABVJ          28         29         0.596      0.414       
+CLV-P-HACEJ          21         21         0.952      0.048       
+CLV-P-HACPJ          17         17         0.824      0.176       
+--------------------------------------------------------------------------------
+AVERAGE                                    0.805      0.189       
+
+📋 AGGREGATED SECTION TYPE STATISTICS:
+Type                      Total AI     Total Human  Diff      
+------------------------------------------------------------
+character                 7            2            +5        
+company_info              1            1            0         
+control                   3            6            -3        
+cover                     5            5            0         
+enemy                     0            6            -6        
+gameplay                  31           28           +3        
+greeting                  1            1            0         
+instruction               16           17           -1        
+item                      4            4            0         
+legal                     6            5            +1        
+narrative                 9            9            0         
+preface                   4            5            -1        
+reference                 11           9            +2        
+system                    6            6            0         
+toc                       2            2            0         
+unknown                   0            1            -1        
+warning                   7            8            -1        
+
+💡 OVERALL ASSESSMENT:
+  ✅ 優秀: AI生成のセクション構造は全体的に非常に高品質
+
+平均F1スコア: 0.805
+平均正規化編集距離: 0.189
