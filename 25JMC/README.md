@@ -12,9 +12,6 @@
 #### `prompt.txt`
 claude-4-sonnetにXMLマークアップを依頼する際のプロンプト
 
-
----
-
 ### 2. OCR・テキスト抽出
 
 #### `gcloudocr.py`
@@ -24,8 +21,6 @@ Google Cloud Vision APIを使用したシンプルなOCRスクリプト。日本
 ```bash
 export GOOGLE_APPLICATION_CREDENTIALS="/path/to/keyfile.json"
 ```
-
----
 
 ### 3. XML構造比較・評価
 
@@ -42,14 +37,10 @@ AI生成XMLと人手作成XMLの構造を一括比較し、精度を評価する
 - `comparison_report_{game_id}.txt`: 各ゲームの詳細レポート
 - `comparison_summary_report.txt`: 全ゲームの統合レポート
 
----
-
 ### 4. 説明・没入セクション分析
 
 #### `analyze_immersion_instruction.py`
 ゲームマニュアルのセクションを「説明的記述」と「没入的記述」に分類し、文字数や割合を分析します。
-
----
 
 ### 5. ナラティブ・クラスタリング分析
 
@@ -59,8 +50,6 @@ AI生成XMLと人手作成XMLの構造を一括比較し、精度を評価する
 **モデル:**
 - `cl-tohoku/bert-base-japanese-whole-word-masking`
 - `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2`
-
----
 
 ### 6. BERT固有表現認識（NER）
 
@@ -74,8 +63,6 @@ BERTモデルを使用した固有表現認識（Named Entity Recognition）シ�
 - **ENEMY**: 敵キャラクター、ボス
 - **ACTION**: 操作、アクション
 - **GAME_ELEMENT**: ゲーム要素、システム
-
----
 
 **最終更新**: 2025年10月  
 **バージョン**: 1.0  
